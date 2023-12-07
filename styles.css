@@ -1,0 +1,149 @@
+body {
+  background-color: #111111;
+  margin: 0px;
+  padding: 0px;
+  color: #ff8000;
+  font-family: "Verdana", sans-serif;
+  font-size: 10pt;
+  line-height: 16px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding-right: 16px;
+  padding-left: 16px;
+  background-color: black;
+}
+
+a img {
+  border: medium none;
+}
+
+a:visited {
+  color: #ff8000;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  text-decoration: none;
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  min-width: 400px;
+  background-color: black;
+  margin: 0px auto;
+  color: #888888;
+}
+
+.header {
+  background-color: #222222;
+  padding: 4px;
+  max-width: 800px;
+  min-width: 400px;
+  align: center;
+  text-align: left;
+}
+
+.menu {
+  background-color: #111111;
+  padding: 4px;
+  max-width: 800px;
+  min-width: 400px;
+  align: center;
+  text-align: right;
+}
+
+.content {
+  padding: 0px;
+  background-color: black;
+  color: #888888;
+}
+
+.content ul, .content ol {
+  padding: 0px 15px 15px 40px;
+}
+
+.footer {
+  padding: 4px 0px;
+  background-color: #222222;
+  line-height: 12px;
+}
+
+.fltrt {
+  float: right;
+  margin-left: 8px;
+}
+
+.fltlft {
+  float: left;
+  margin-right: 8px;
+}
+
+.clearfloat {
+  clear: both;
+  height: 0px;
+  font-size: 8px;
+  line-height: 0px;
+}
+
+.space {
+	padding: 16px 0px;
+	background-color: black;
+}
+
+a {
+  font-family: Verdana, Geneva, sans-serif;
+  color: #ff8000;
+  font-size: 10pt;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:active {
+  color: #ff8000;
+  text-decoration: none;
+}
+
+.table {
+	margin: auto;
+	width: 80%;
+	max-height: 480px;
+	border-collapse: separate;
+	border-spacing: 8px;
+	background-color: black;
+	text-align: center;
+	color: #888888;
+}
+
+.table th, .table td {
+    padding: 0px;
+    border: none;
+}
+
+.table1 {
+	margin: auto;
+	width: 60%;
+	border-collapse: separate;
+	border-spacing: 8px;
+	background-color: black;
+	text-align: center;
+	color: #888888;
+}
+
+.table1 th, .table1 td {
+    padding: 0px;
+    border: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  max-height: none;
+  min-width: 50%;
+}
+

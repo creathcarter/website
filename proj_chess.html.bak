@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN CREATHS HEADER -->
+    <div class="container">
+      <div class="header" align="right">
+        <div align="left"> <a href="https://www.creathcarter.com">creath carter</a>
+          <br>
+        </div>
+        <div align="right"> 
+        </div>
+      </div>
+      <div class="c-menus" align="right"> 
+        <a href="https://www.creathcarter.com" target="_top">home</a> | 
+        <a href="resume.htm" title="Resume" target="_top">resume</a> | 
+        <a href="about.htm" target="_top">about</a> 
+      </div>
+      <!-- END CREATHS HEADER -->
+      <div class="content" align="center">
+        <p>&nbsp;</p>
+        <p><br>
+        </p>
+        <div class="content" align="center">
+          <h1>VR Chessed</h1>
+          <p>&nbsp;</p>
+          <p style="text-align: center;">This is a cancelled prototype for a VR
+            chess game developed by Creath Carter and Aaron Boonshoft.</p>
+          <p style="text-align: center;">Wall art by Frederick Edwin Church.<br>
+            All other art by Creath Carter.</p>
+          <p align="left">&nbsp;</p>
+          <p align="center"><a href="../site_images/2015/chess/ccarter_chessedA.jpg"
+
+              target="_blank"><img src="proj_chessed/proj_chessedA.jpg" title="chessed A"
+
+                height="448" width="720" align="middle"></a></p>
+          <p align="center"><br>
+          </p>
+          <p align="center"><a href="../site_images/2015/chess/ccarter_chessedB.jpg"
+
+              target="_blank"><img src="proj_chessed/proj_chessedB.jpg" title="Chessed B"
+
+                height="448" width="720" align="middle"></a></p>
+          <p align="center">&nbsp;</p>
+          <p align="center"><a href="../site_images/2015/chess/ccarter_chessedD.jpg"
+
+              target="_blank"><img src="proj_chessed/proj_chessedC.jpg" title="Chessed C"
+
+                height="448" width="720" align="middle"></a></p>
+          <p align="center"><br>
+          </p>
+        </div>
+        <!--END JUICEBOX EMBED--> </div>
+      <br>
+      &nbsp;
+      <div class="basemenu" align="left"><a href="http://www.creathcarter.com/site_html/nowplaying.htm">now
+          playing</a>
+        <!-- <a href="http://www.creathcarter.com/site_html/timeline.htm">timeline  &#149;-->
+      </div>
+      <div class="footer" align="right">© creath carter</div>
+    </div>
+    
+  </body>
+</html>

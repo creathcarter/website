@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+
+          href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>WoW Test</h1>
+        <p style="align: center;">Some World of Warcraft-themed Art</p>
+        <div class="content"> </div>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_wow_test/env-colorstudy.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/env-colorstudy.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td>An initial concept for the assets to be created</td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine_alt01.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungShrine_alt01.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine01-w.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungShrine01-w.jpg" alt=""></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>Conidia Shrine: <br>
+                1,525 triangles</td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine_alt02.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungShrine_alt02.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine01-uv01.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungShrine01-uv01.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td>7 textures <br>
+                (3-512x512, 3-256x256, 1-256x128)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_wow_test/fungTree_alt01.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungTree_alt01.jpg" alt=""></a></td>
+              <td><a href="proj_wow_test/fungLamp_alt01.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungLamp_alt01.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+              <td>Fungus Tree<br>
+                292 triangles</td>
+              <td>Lantern Cap<br>
+                192 triangles</td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungTree01-w.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungTree01-w.jpg" alt=""></a></td>
+              <td><a href="proj_wow_test/fungLamp01-w.jpg" target="_blank"><img
+
+                    src="proj_wow_test/fungLamp01-w.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungTree_uv01.jpg" target="_blank"><img
+
+                    src="proj_wow_test/fungTree_uv01.jpg" title="&quot;&quot;"></a> <a
+
+                  href="proj_wow_test/fungLamp_uv02.jpg" target="_blank"> <img
+
+                    src="proj_wow_test/fungLamp_uv02.jpg" alt=""> </a></td>
+              <td><a href="proj_wow_test/fungLamp_uv01.jpg" target="_blank"> <img
+
+                  src="proj_wow_test/fungLamp_uv01.jpg" title=""></a></td>
+            </tr>
+            <tr>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>Additional Sketches and Renders:<br>
+              </td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine02.jpg" target="_blank"><img
+
+                  src="proj_wow_test/fungShrine02.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine01.jpg" target="_blank"> <img
+
+                  src="proj_wow_test/fungShrine01.jpg" alt=""> </a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungLamp02.jpg" target="_blank"> <img
+
+                  src="proj_wow_test/fungLamp02.jpg" alt=""> </a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungTree01.jpg" target="_blank"> <img
+
+                  src="proj_wow_test/fungTree01.jpg" alt=""></a> </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_wow_test/fungShrine-corner-c.jpg" target="_blank"><img
+
+                  src="proj_wow_test/fungShrine-corner-c.jpg" alt=""> </a></td>
+              <td><a href="proj_wow_test/fungShrine-quarter-c.jpg" target="_blank"> <img
+
+                  src="proj_wow_test/fungShrine-quarter-c.jpg" alt=""> </a></td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+              <td><a href="proj_wow_test/fungTree01-c.jpg" target="_blank"> <img
+
+                  src="proj_wow_test/fungTree01-c.jpg" alt=""> </a></td>
+              <td><a href="proj_wow_test/fungShrine-cutaway01-c.jpg" target="_blank"><img
+
+                  src="proj_wow_test/fungShrine-cutaway01-c.jpg" alt=""> </a></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="space"></div>
+      </div>
+      <!-- END BODY-->
+      <!-- BEGIN BASE MENU -->
+      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+
+          target="_top">now playing</a> </div>
+      <div class="footer" align="right">©2023 creath carter </div>
+    </div>
+    <!-- END BASE MENU -->
+  </body>
+</html>

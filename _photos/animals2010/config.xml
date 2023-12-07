@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="64"
+	thumbHeight="64"
+	useLargeImages="true"
+	thumbQuality="50"
+	watermarkPath="E:\website\site_images\_sourceFiles\watermarks\cc_watermark.png"
+	galleryTitle="some animals"
+	textColor="rgba(102,102,102,1)"
+	thumbFrameColor="rgba(102,102,102,.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	galleryTitlePosition="NONE"
+	galleryTitleHAlign="CENTER"
+	topAreaHeight="0"
+	imageTransitionType="NONE"
+	imageClickMode="OPEN_URL"
+	imagePreloading="NEXT"
+	imageTransitionTime="0"
+	thumbsPosition="TOP"
+	showSmallPagingText="false"
+	showSmallThumbsButton="false"
+	showSmallThumbsOnLoad="false"
+	maxThumbColumns="32"
+	thumbPadding="2"
+	thumbSelectedFrameWidth="4"
+	thumbShadowBlur="0"
+	buttonBarPosition="NONE"
+	showAutoPlayStatus="false"
+	autoPlayThumbs="false"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/WS2010_003.jpg"
+	thumbURL="thumbs/WS2010_003.jpg"
+	linkURL="images/large/WS2010_003.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_003.jpg"
+	largeImageURL="images/large/WS2010_003.jpg">
+    <title><![CDATA[WS2010_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_031.jpg"
+	thumbURL="thumbs/WS2010_031.jpg"
+	linkURL="images/large/WS2010_031.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_031.jpg"
+	largeImageURL="images/large/WS2010_031.jpg">
+    <title><![CDATA[WS2010_031]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_029.jpg"
+	thumbURL="thumbs/WS2010_029.jpg"
+	linkURL="images/large/WS2010_029.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_029.jpg"
+	largeImageURL="images/large/WS2010_029.jpg">
+    <title><![CDATA[WS2010_029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_004.jpg"
+	thumbURL="thumbs/WS2010_004.jpg"
+	linkURL="images/large/WS2010_004.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_004.jpg"
+	largeImageURL="images/large/WS2010_004.jpg">
+    <title><![CDATA[WS2010_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_028.jpg"
+	thumbURL="thumbs/WS2010_028.jpg"
+	linkURL="images/large/WS2010_028.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_028.jpg"
+	largeImageURL="images/large/WS2010_028.jpg">
+    <title><![CDATA[WS2010_028]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_006.jpg"
+	thumbURL="thumbs/WS2010_006.jpg"
+	linkURL="images/large/WS2010_006.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_006.jpg"
+	largeImageURL="images/large/WS2010_006.jpg">
+    <title><![CDATA[WS2010_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_007.jpg"
+	thumbURL="thumbs/WS2010_007.jpg"
+	linkURL="images/large/WS2010_007.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_007.jpg"
+	largeImageURL="images/large/WS2010_007.jpg">
+    <title><![CDATA[WS2010_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_020.jpg"
+	thumbURL="thumbs/WS2010_020.jpg"
+	linkURL="images/large/WS2010_020.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_020.jpg"
+	largeImageURL="images/large/WS2010_020.jpg">
+    <title><![CDATA[WS2010_020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_035.jpg"
+	thumbURL="thumbs/WS2010_035.jpg"
+	linkURL="images/large/WS2010_035.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_035.jpg"
+	largeImageURL="images/large/WS2010_035.jpg">
+    <title><![CDATA[WS2010_035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WS2010_040.jpg"
+	thumbURL="thumbs/WS2010_040.jpg"
+	linkURL="images/large/WS2010_040.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\WinslowShire2010\WS2010_040.jpg"
+	largeImageURL="images/large/WS2010_040.jpg">
+    <title><![CDATA[WS2010_040]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

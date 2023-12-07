@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="64"
+	thumbHeight="64"
+	useLargeImages="true"
+	thumbQuality="50"
+	watermarkPath="E:\website\site_images\_sourceFiles\watermarks\cc_watermark.png"
+	galleryTitle="miscellany"
+	textColor="rgba(102,102,102,1)"
+	thumbFrameColor="rgba(102,102,102,.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	galleryTitlePosition="NONE"
+	galleryTitleHAlign="CENTER"
+	topAreaHeight="0"
+	imageTransitionType="NONE"
+	imageClickMode="OPEN_URL"
+	imagePreloading="NEXT"
+	imageTransitionTime="0"
+	thumbsPosition="TOP"
+	showSmallPagingText="false"
+	showSmallThumbsButton="false"
+	showSmallThumbsOnLoad="false"
+	maxThumbColumns="32"
+	thumbPadding="2"
+	thumbSelectedFrameWidth="4"
+	thumbShadowBlur="0"
+	buttonBarPosition="NONE"
+	showAutoPlayStatus="false"
+	autoPlayThumbs="false"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/wineye_splashA.jpg"
+	thumbURL="thumbs/wineye_splashA.jpg"
+	linkURL="images/large/wineye_splashA.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\website\site_images\gallery\2016photos\images\wineye_splashA.jpg"
+	largeImageURL="images/large/wineye_splashA.jpg">
+    <title><![CDATA[wineye_splashA]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/crazypoleSm.jpg"
+	thumbURL="thumbs/crazypoleSm.jpg"
+	linkURL="images/large/crazypoleSm.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\2016_fairAnimals\crazypoleSm.jpg"
+	largeImageURL="images/large/crazypoleSm.jpg">
+    <title><![CDATA[crazypoleSm]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/thistleSm.jpg"
+	thumbURL="thumbs/thistleSm.jpg"
+	linkURL="images/large/thistleSm.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\2016_fairAnimals\thistleSm.jpg"
+	largeImageURL="images/large/thistleSm.jpg">
+    <title><![CDATA[thistleSm]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/endora_splashA.jpg"
+	thumbURL="thumbs/endora_splashA.jpg"
+	linkURL="images/large/endora_splashA.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\website\site_images\gallery\2016photos\images\endora_splashA.jpg"
+	largeImageURL="images/large/endora_splashA.jpg">
+    <title><![CDATA[endora_splashA]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lovebuttSm.jpg"
+	thumbURL="thumbs/lovebuttSm.jpg"
+	linkURL="images/large/lovebuttSm.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\2016_fairAnimals\lovebuttSm.jpg"
+	largeImageURL="images/large/lovebuttSm.jpg">
+    <title><![CDATA[lovebuttSm]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

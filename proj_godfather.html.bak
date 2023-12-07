@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+
+          href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>The Godfather</h1>
+        (2006)</div>
+      <div class="content"><br>
+        <p>I was responsible for using proprietary tools to process the real-time cinematics.  I also modeled, textured, rigged, and implemented multiple cinematic and gameplay props and objects, in addition to creating additional pedestrian character clothing options.</p>
+      </div>
+      <div class="space"></div>
+      <div class="content">
+        <!-- table 1 -->
+        <p> </p>
+        <div class="content" align="center">
+          <table class="table">
+            <tbody>
+              <tr>
+                <td> <br>
+                  Cinematics Screenshots</td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/gfCap04.jpg" alt=""> </td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/gfCap03.jpg" alt=""> </td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/gfCap02.jpg" alt=""> </td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/gfCap01.jpg" alt=""> </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="table">
+            <tbody>
+              <tr>
+                <td> <br>
+                  Cinematic Assets </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="table">
+            <tbody>
+              <tr>
+                <td><img src="proj_godfather/camera01.jpg" alt=""></td>
+                <td> <img src="proj_godfather/camera01-w.jpg" alt=""></td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/horsehead01.jpg" alt=""></td>
+                <td> <img src="proj_godfather/horsehead01-w.jpg" alt=""></td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/airliner01.jpg"></td>
+                <td> <img src="proj_godfather/airliner01-w.jpg"> </td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/payphone01.jpg"> </td>
+                <td> <img src="proj_godfather/payphone01-w.jpg" alt=""></td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/snowsled01.jpg"> </td>
+                <td> <img src="proj_godfather/snowsled01-w.jpg" alt=""></td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="table">
+            <tbody>
+              <tr>
+                <td> <br>
+                  Pedestrian Texture Variations </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="table">
+            <tbody>
+              <tr>
+                <td> <img src="proj_godfather/pefg01.jpg" alt=""> </td>
+                <td> <img src="proj_godfather/pefg02.jpg" alt=""> </td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/pefh01.jpg" alt=""> </td>
+                <td> <img src="proj_godfather/pefk01.jpg" alt=""> </td>
+              </tr>
+              <tr>
+                <td> <img src="proj_godfather/pefl01.jpg" alt=""> </td>
+                <td> <img src="proj_godfather/pefo01.jpg" alt=""> </td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="space"><br>
+          </div>
+        </div>
+        <!-- END BODY-->
+        <!-- BEGIN BASE MENU -->
+        <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+
+            target="_top">now playing</a> </div>
+        <div class="footer" align="right">©2023 creath carter </div>
+      </div>
+      <!-- END BASE MENU --> </div>
+    
+  </body>
+</html>

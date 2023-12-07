@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+
+          href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>2D Art and Illustration</h1>
+        <br>
+        These are illustrations I hand painted via Photoshop or Procreate.<br>
+        If it is of any concern, no AI was used in the creation of this work.
+        <div class="space"> </div>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>A selection of plein<span style="color: #ff8000;"><span
+
+                    style="font-family: Verdana,Geneva,sans-serif;">-</span></span>air and environment paintovers created for the Knowledge Matters educational suite of software<br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_kmi/bg_urbanB.jpg" target="_blank"> <img
+
+                    src="proj_kmi/bg_urbanB.jpg" alt=""></a></td>
+              <td><a href="proj_kmi/bg_urbanA.jpg" target="_blank"> <img
+
+                    src="proj_kmi/bg_urbanA.jpg" alt=""></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_kmi/bg_pierA.jpg" target="_blank"> <img
+
+                    src="proj_kmi/bg_pierA.jpg" alt=""></a></td>
+              <td><a href="proj_kmi/bg_ruralA.jpg" target="_blank"> <img
+
+                    src="proj_kmi/bg_ruralA.jpg" alt=""></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><br>
+                Two decorative illustrations for a pair of custom-created arcade fighting sticks<br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_sticks/stick01.jpg" target="_blank"><img
+
+                    src="proj_sticks/stick01.jpg" alt=""></a></td>
+              <td><a href="proj_sticks/stick02.jpg" target="_blank"><img
+
+                    src="proj_sticks/stick02.jpg" alt=""></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td> <br>
+                Non-project-related personal illustrations <br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table1">
+          <tbody>
+            <tr>
+              <td><a href="proj_illustrations/abd.jpg" target="_blank"> <img
+
+                    src="proj_illustrations/abd.jpg" alt="abd" title="abd"></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td> <br>
+                The family Holiday card for 2023<br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_illustrations/XmasCard_2023_v7.png" target="_blank"><img
+
+                  src="proj_illustrations/XmasCard_2023_v7.png" alt=""> </a></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td> <br>
+                A concept illustration for the game SunTrail<br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_suntrail/suntrail_concept01.png" target="_blank"><img
+
+                  src="proj_suntrail/suntrail_concept01.png" alt=""> </a></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td> <br>
+                While I am responsible for the content below, these are examples of visual communication in a development environment rather than artistic creations. <br>
+                <br>
+                These pieces were created to support design and help artists break down scene structure, and developers visualize the technical concepts being employed on the project.<br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td><a href="proj_shoekicker/sk_envRefB.jpg" target="_blank"> <img
+
+                    src="proj_shoekicker/sk_envRefB.jpg" alt=""> </a></td>
+              <td><a href="proj_shoekicker/sk_envRefA.jpg" target="_blank"> <img
+
+                    src="proj_shoekicker/sk_envRefA.jpg" alt=""> </a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_shoekicker/sk_assemblyCompA.jpg" target="_blank"><img
+
+                    src="proj_shoekicker/sk_assemblyCompA.jpg" alt=""></a></td>
+              <td><a href="proj_shoekicker/sk_assemblyCompB.jpg" target="_blank"><img
+
+                    src="proj_shoekicker/sk_assemblyCompB.jpg" alt=""></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="space"></div>
+      </div>
+      <!-- END BODY-->
+      <!-- BEGIN BASE MENU -->
+      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+
+          target="_top">now playing</a> </div>
+      <div class="footer" align="right">©2023 creath carter </div>
+    </div>
+    <!-- END BASE MENU -->
+  </body>
+</html>

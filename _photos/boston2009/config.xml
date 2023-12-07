@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="64"
+	thumbHeight="64"
+	useLargeImages="true"
+	thumbQuality="50"
+	watermarkPath="E:\website\site_images\_sourceFiles\watermarks\cc_watermark.png"
+	galleryTitle="boston 2009"
+	textColor="rgba(102,102,102,1)"
+	thumbFrameColor="rgba(102,102,102,.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	galleryTitlePosition="NONE"
+	galleryTitleHAlign="CENTER"
+	topAreaHeight="0"
+	imageTransitionType="NONE"
+	imageClickMode="OPEN_URL"
+	imagePreloading="NEXT"
+	imageTransitionTime="0"
+	thumbsPosition="TOP"
+	showSmallPagingText="false"
+	showSmallThumbsButton="false"
+	showSmallThumbsOnLoad="false"
+	maxThumbColumns="32"
+	thumbPadding="2"
+	thumbSelectedFrameWidth="4"
+	thumbShadowBlur="0"
+	buttonBarPosition="NONE"
+	showAutoPlayStatus="false"
+	autoPlayThumbs="false"
+	captionPosition="NONE"
+	resizeOnImport="true"
+
+>
+  <image imageURL="images/alleyB.jpg"
+	thumbURL="thumbs/alleyB.jpg"
+	linkURL="images/large/alleyB.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\alleyB.JPG"
+	largeImageURL="images/large/alleyB.jpg">
+    <title><![CDATA[alleyB]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/squirrelD.jpg"
+	thumbURL="thumbs/squirrelD.jpg"
+	linkURL="images/large/squirrelD.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\squirrelD.JPG"
+	largeImageURL="images/large/squirrelD.jpg">
+    <title><![CDATA[squirrelD]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bostonCityHall.jpg"
+	thumbURL="thumbs/bostonCityHall.jpg"
+	linkURL="images/large/bostonCityHall.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\bostonCityHall.JPG"
+	largeImageURL="images/large/bostonCityHall.jpg">
+    <title><![CDATA[bostonCityHall]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/snailPark.jpg"
+	thumbURL="thumbs/snailPark.jpg"
+	linkURL="images/large/snailPark.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\snailPark.JPG"
+	largeImageURL="images/large/snailPark.jpg">
+    <title><![CDATA[snailPark]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bostonDoors.jpg"
+	thumbURL="thumbs/bostonDoors.jpg"
+	linkURL="images/large/bostonDoors.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\bostonDoors.JPG"
+	largeImageURL="images/large/bostonDoors.jpg">
+    <title><![CDATA[bostonDoors]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/chokeIt.jpg"
+	thumbURL="thumbs/chokeIt.jpg"
+	linkURL="images/large/chokeIt.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\chokeIt.JPG"
+	largeImageURL="images/large/chokeIt.jpg">
+    <title><![CDATA[chokeIt]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/dome.jpg"
+	thumbURL="thumbs/dome.jpg"
+	linkURL="images/large/dome.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\dome.JPG"
+	largeImageURL="images/large/dome.jpg">
+    <title><![CDATA[dome]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/flagRoomB.jpg"
+	thumbURL="thumbs/flagRoomB.jpg"
+	linkURL="images/large/flagRoomB.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\flagRoomB.JPG"
+	largeImageURL="images/large/flagRoomB.jpg">
+    <title><![CDATA[flagRoomB]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/momBridgeB.jpg"
+	thumbURL="thumbs/momBridgeB.jpg"
+	linkURL="images/large/momBridgeB.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\momBridgeB.JPG"
+	largeImageURL="images/large/momBridgeB.jpg">
+    <title><![CDATA[momBridgeB]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smallBird.jpg"
+	thumbURL="thumbs/smallBird.jpg"
+	linkURL="images/large/smallBird.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\smallBird.JPG"
+	largeImageURL="images/large/smallBird.jpg">
+    <title><![CDATA[smallBird]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pigeonHead.jpg"
+	thumbURL="thumbs/pigeonHead.jpg"
+	linkURL="images/large/pigeonHead.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\pigeonHead.JPG"
+	largeImageURL="images/large/pigeonHead.jpg">
+    <title><![CDATA[pigeonHead]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/squirrelA.jpg"
+	thumbURL="thumbs/squirrelA.jpg"
+	linkURL="images/large/squirrelA.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\squirrelA.JPG"
+	largeImageURL="images/large/squirrelA.jpg">
+    <title><![CDATA[squirrelA]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/subwayCometh.jpg"
+	thumbURL="thumbs/subwayCometh.jpg"
+	linkURL="images/large/subwayCometh.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\subwayCometh.JPG"
+	largeImageURL="images/large/subwayCometh.jpg">
+    <title><![CDATA[subwayCometh]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/squirrelC.jpg"
+	thumbURL="thumbs/squirrelC.jpg"
+	linkURL="images/large/squirrelC.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\squirrelC.JPG"
+	largeImageURL="images/large/squirrelC.jpg">
+    <title><![CDATA[squirrelC]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tavern.jpg"
+	thumbURL="thumbs/tavern.jpg"
+	linkURL="images/large/tavern.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\Boston2009\tavern.JPG"
+	largeImageURL="images/large/tavern.jpg">
+    <title><![CDATA[tavern]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

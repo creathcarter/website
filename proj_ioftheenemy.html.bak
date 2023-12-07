@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+
+          href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>I of the Enemy</h1>
+        <p style="align: center;">2D RTS (2004)</p>
+        <p style="align: center;">This was my first Art Contract Project after College</p>
+        <p style="align: center;">Environment Tiles are 64x64 resolution at 24-bit non-palletized color. <br>
+          516 tiles per environment including animated water.</p>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/still_ack01.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/still_ack01.jpg"
+
+                    title="Prerenders" alt="Prerenders" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td>The Swamp Planet, Ackinean</td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/ack03.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/ack03.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/ack02.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/ack02.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/ack01.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/ack01.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/still_elyea01.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/still_elyea01.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td>The Green Planet, Elyea</td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/ely03.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/ely03.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/ely02.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/ely02.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/ely01.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/ely01.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/still_gha01.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/still_gha01.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td>The Magma Planet, Gha-Dath</td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/gha02.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/gha01.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/gha02.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/gha02.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td style="height: 228px;"><a href="proj_ioftheenemy/gha03.jpg"
+
+                  target="_blank"> <img src="proj_ioftheenemy/gha03.jpg"
+
+                    title="Biomes" alt="Biomes" height="auto" width="auto"
+
+                    align="middle"></a></td>
+            </tr>
+            <tr>
+              <td>Building and Unit Renders, and States of Decay<br>
+                <br>
+                Units are also 64x64 resolution at 24-bit non-paletized color.<br>
+                Each unit has 5 directional frames and between 1 - 2 animation frames for in-game animation.</td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/bldg_alien01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/bldg_alien01.jpg" title="Building States"
+
+                    alt="Building States" height="448" width="720" align="middle"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/bldg_dock01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/bldg_dock01.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/bldg_port01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/bldg_port01.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/bldg_zone01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/bldg_zone01.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/units01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/units01.jpg" title="Units" alt="Units"
+
+                    height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td>Additional Stills<br>
+                <br>
+                Still images were created using a combination of Max 5.1 and Photoshop 7, and were assembled using a combination of several artists unit models.&nbsp; <br>
+                Environment models, lighting and rendering by Creath Carter.</td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/still_combat01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/still_combat01.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/still_gha02.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/still_gha02.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/still_gha03.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/still_gha03.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/still_gha04.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/still_gha04.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_chessed/proj_chessedD.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/still_gha05.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td><a href="proj_ioftheenemy/still_lose01.jpg" target="_blank"> <img
+
+                    src="proj_ioftheenemy/still_lose01.jpg" title="error"
+
+                    alt="error" height="448" width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td>The project lasted from Sept. 2002 to Oct. 2003, and was released in 2004 for DOS and Windows.</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="space"></div>
+      </div>
+      <!-- END BODY-->
+      <!-- BEGIN BASE MENU -->
+      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+
+          target="_top">now playing</a> </div>
+      <div class="footer" align="right">©2023 creath carter </div>
+    </div>
+    <!-- END BASE MENU -->
+  </body>
+</html>

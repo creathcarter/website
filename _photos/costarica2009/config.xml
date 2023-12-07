@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	thumbWidth="64"
+	thumbHeight="64"
+	useLargeImages="true"
+	thumbQuality="50"
+	watermarkPath="E:\website\site_images\_sourceFiles\watermarks\cc_watermark.png"
+	galleryTitle="costa rica"
+	textColor="rgba(102,102,102,1)"
+	thumbFrameColor="rgba(102,102,102,.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	enableLooping="true"
+	randomizeImages="false"
+	galleryTitlePosition="NONE"
+	galleryTitleHAlign="CENTER"
+	topAreaHeight="0"
+	imageTransitionType="NONE"
+	imageClickMode="OPEN_URL"
+	imagePreloading="NEXT"
+	imageTransitionTime="0"
+	thumbsPosition="TOP"
+	showSmallPagingText="false"
+	showSmallThumbsButton="false"
+	showSmallThumbsOnLoad="false"
+	maxThumbColumns="32"
+	maxThumbRows="1"
+	thumbPadding="2"
+	thumbSelectedFrameWidth="4"
+	thumbShadowBlur="0"
+	buttonBarPosition="NONE"
+	enableAutoPlay="false"
+	showAutoPlayStatus="false"
+	autoPlayThumbs="false"
+	captionPosition="NONE"
+
+>
+  <image imageURL="images/almostGood.jpg"
+	thumbURL="thumbs/almostGood.jpg"
+	linkURL="images/large/almostGood.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\almostGood.JPG"
+	largeImageURL="images/large/almostGood.jpg">
+    <title><![CDATA[almostGood]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cahuitaButter.jpg"
+	thumbURL="thumbs/cahuitaButter.jpg"
+	linkURL="images/large/cahuitaButter.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cahuitaButter.JPG"
+	largeImageURL="images/large/cahuitaButter.jpg">
+    <title><![CDATA[cahuitaButter]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cahuitaCutter.jpg"
+	thumbURL="thumbs/cahuitaCutter.jpg"
+	linkURL="images/large/cahuitaCutter.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cahuitaCutter.JPG"
+	largeImageURL="images/large/cahuitaCutter.jpg">
+    <title><![CDATA[cahuitaCutter]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cahuitaFlower.jpg"
+	thumbURL="thumbs/cahuitaFlower.jpg"
+	linkURL="images/large/cahuitaFlower.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cahuitaFlower.JPG"
+	largeImageURL="images/large/cahuitaFlower.jpg">
+    <title><![CDATA[cahuitaFlower]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cahuitaMonkey.jpg"
+	thumbURL="thumbs/cahuitaMonkey.jpg"
+	linkURL="images/large/cahuitaMonkey.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cahuitaMonkey.JPG"
+	largeImageURL="images/large/cahuitaMonkey.jpg">
+    <title><![CDATA[cahuitaMonkey]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cahuitaMonster.jpg"
+	thumbURL="thumbs/cahuitaMonster.jpg"
+	linkURL="images/large/cahuitaMonster.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cahuitaMonster.JPG"
+	largeImageURL="images/large/cahuitaMonster.jpg">
+    <title><![CDATA[cahuitaMonster]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cahuitaSprout.jpg"
+	thumbURL="thumbs/cahuitaSprout.jpg"
+	linkURL="images/large/cahuitaSprout.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cahuitaSprout.JPG"
+	largeImageURL="images/large/cahuitaSprout.jpg">
+    <title><![CDATA[cahuitaSprout]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cameraMan.jpg"
+	thumbURL="thumbs/cameraMan.jpg"
+	linkURL="images/large/cameraMan.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\cameraMan.JPG"
+	largeImageURL="images/large/cameraMan.jpg">
+    <title><![CDATA[cameraMan]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/doubleMonkey.jpg"
+	thumbURL="thumbs/doubleMonkey.jpg"
+	linkURL="images/large/doubleMonkey.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\doubleMonkey.JPG"
+	largeImageURL="images/large/doubleMonkey.jpg">
+    <title><![CDATA[doubleMonkey]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/monteVerde2.jpg"
+	thumbURL="thumbs/monteVerde2.jpg"
+	linkURL="images/large/monteVerde2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\monteVerde2.JPG"
+	largeImageURL="images/large/monteVerde2.jpg">
+    <title><![CDATA[monteVerde2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/monteVerdeSunset.jpg"
+	thumbURL="thumbs/monteVerdeSunset.jpg"
+	linkURL="images/large/monteVerdeSunset.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\monteVerdeSunset.JPG"
+	largeImageURL="images/large/monteVerdeSunset.jpg">
+    <title><![CDATA[monteVerdeSunset]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/monteVine.jpg"
+	thumbURL="thumbs/monteVine.jpg"
+	linkURL="images/large/monteVine.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\monteVine.JPG"
+	largeImageURL="images/large/monteVine.jpg">
+    <title><![CDATA[monteVine]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/overGrowth.jpg"
+	thumbURL="thumbs/overGrowth.jpg"
+	linkURL="images/large/overGrowth.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\overGrowth.JPG"
+	largeImageURL="images/large/overGrowth.jpg">
+    <title><![CDATA[overGrowth]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/playaNegraLandscaping2.jpg"
+	thumbURL="thumbs/playaNegraLandscaping2.jpg"
+	linkURL="images/large/playaNegraLandscaping2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\playaNegraLandscaping2.JPG"
+	largeImageURL="images/large/playaNegraLandscaping2.jpg">
+    <title><![CDATA[playaNegraLandscaping2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/playaNegraRoom1.jpg"
+	thumbURL="thumbs/playaNegraRoom1.jpg"
+	linkURL="images/large/playaNegraRoom1.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\playaNegraRoom1.JPG"
+	largeImageURL="images/large/playaNegraRoom1.jpg">
+    <title><![CDATA[playaNegraRoom1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/primateCrossing.jpg"
+	thumbURL="thumbs/primateCrossing.jpg"
+	linkURL="images/large/primateCrossing.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\primateCrossing.JPG"
+	largeImageURL="images/large/primateCrossing.jpg">
+    <title><![CDATA[primateCrossing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/rabbitHole1.jpg"
+	thumbURL="thumbs/rabbitHole1.jpg"
+	linkURL="images/large/rabbitHole1.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\rabbitHole1.JPG"
+	largeImageURL="images/large/rabbitHole1.jpg">
+    <title><![CDATA[rabbitHole1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/reach.jpg"
+	thumbURL="thumbs/reach.jpg"
+	linkURL="images/large/reach.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\reach.JPG"
+	largeImageURL="images/large/reach.jpg">
+    <title><![CDATA[reach]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/relaxing.jpg"
+	thumbURL="thumbs/relaxing.jpg"
+	linkURL="images/large/relaxing.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\relaxing.JPG"
+	largeImageURL="images/large/relaxing.jpg">
+    <title><![CDATA[relaxing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/slothLove2.jpg"
+	thumbURL="thumbs/slothLove2.jpg"
+	linkURL="images/large/slothLove2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\slothLove2.JPG"
+	largeImageURL="images/large/slothLove2.jpg">
+    <title><![CDATA[slothLove2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/slothSnooze.jpg"
+	thumbURL="thumbs/slothSnooze.jpg"
+	linkURL="images/large/slothSnooze.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\slothSnooze.JPG"
+	largeImageURL="images/large/slothSnooze.jpg">
+    <title><![CDATA[slothSnooze]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sunBeams.jpg"
+	thumbURL="thumbs/sunBeams.jpg"
+	linkURL="images/large/sunBeams.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\sunBeams.JPG"
+	largeImageURL="images/large/sunBeams.jpg">
+    <title><![CDATA[sunBeams]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/vacation.jpg"
+	thumbURL="thumbs/vacation.jpg"
+	linkURL="images/large/vacation.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\vacation.JPG"
+	largeImageURL="images/large/vacation.jpg">
+    <title><![CDATA[vacation]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/vacation2.jpg"
+	thumbURL="thumbs/vacation2.jpg"
+	linkURL="images/large/vacation2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\vacation2.JPG"
+	largeImageURL="images/large/vacation2.jpg">
+    <title><![CDATA[vacation2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/vista2.jpg"
+	thumbURL="thumbs/vista2.jpg"
+	linkURL="images/large/vista2.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\Media\Photos\D60\CostaRica2009\Creath\vista2.JPG"
+	largeImageURL="images/large/vista2.jpg">
+    <title><![CDATA[vista2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

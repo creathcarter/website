@@ -1,0 +1,317 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>creath carter | art and design</title>
+<style type="text/css">
+body {
+	background-color: #111111;
+	margin: 0;
+	padding: 0;
+	color: #FF8000;
+	font-family: "Verdana", sans-serif;
+	font-size: 10pt;
+	line-height: 12px;
+	margin-bottom: 0px;
+}
+
+ul, ol, dl {
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+a img {
+	border: none;
+}
+
+<!-- DON'T CHANGE THE ORDER OF THESE -->
+a:link {
+	color: #ff8000;
+	text-decoration: none;
+}
+a:visited {
+	color: #ff8000;
+	text-decoration: none;
+}
+a:hover, a:active, a:focus {
+	text-decoration: none;
+}
+
+/* ~~ this container surrounds all other divs giving them their percentage-based width ~~ */
+.container {
+	width: 100%;
+	max-width: 800px;
+	min-width: 640px;
+	background-color: #111111;
+	margin: 0 auto;
+}
+
+.header {
+	background-color: #222222;
+}
+
+.content {
+	padding: 0px 0;
+	background-color: #000000;
+	font-size: 10pt;
+	color: #666666;
+}
+
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; 
+}
+
+.footer {
+	padding: 4px 0;
+	background-color: #222222;
+	line-height: 12px;
+}
+
+.fltrt {
+	float: right;
+	margin-left: 8px;
+}
+.fltlft {
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 8px;
+	line-height: 0px;
+}
+a {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #ff8000;
+	font-size: 10pt;
+}
+a:hover {
+	color: #FF0;
+	text-decoration: none;
+}
+a:active {
+	color: #ff8000;
+	text-decoration: none;
+}
+.container .topmenu a {
+	font-family: Verdana, monospace;
+}
+
+
+<!-- BEGIN CREATH BLOCK -->
+
+.c-container {
+	max-width: 800px;
+	min-width: 640px;
+	font-family: Verdana, monospace;
+	background-color: #000000;
+	font-size: 10pt;
+	color: #666666;
+}
+
+.c-content {
+	font-family: Verdana, monospace;
+	padding: 64px;
+	background-color: #000000;
+	font-size: 10pt;
+	color: #666666;
+}
+
+.c-base {
+	font-family: Verdana, monospace;
+	padding: 4px 0;
+	background-color: #222222;
+	line-height: 12px;
+}
+
+.c-menus {
+	font-family: Verdana, monospace;
+	padding: 4px 0;
+	background-color: #111111;
+	line-height: 12px;
+}
+
+<!-- END CREATH BLOCK -->
+
+
+
+-->
+</style>
+</head>
+
+<body>
+
+<!-- BEGIN CREATHS HEADER_MENU HTML -->
+
+<div class="container">
+  <div class="c-base" align="left">
+	<a href="http://www.creathcarter.com">creath carter</a><br>
+  </div>
+
+  <div class="c-menus" align="right"> 
+  	<a href="http://www.creathcarter.com/site_html/artwork.htm">artwork</a> &#149; 
+  	<a href="http://projects.creathcarter.com">projects</a> &#149; 
+  	<a href="http://www.creathcarter.com/site_html/resume.htm">resume</a> &#149; 
+  	<a href="http://www.creathcarter.com/site_html/about.htm">about</a>
+  </div>
+</div>
+
+<!-- END CREATHS HEADER_MENU HTML -->
+
+<div class="container">
+  <div class="content" align="center">
+    <p>&nbsp;</p>
+    <p><img src="http://www.creathcarter.com/site_images/2012/monster/ms_logo.png" width="600" height="150"></p>
+    <p><u>Monstersanto(2012)</u></p>
+    <div class="content" align="center">
+      
+      
+      
+  <!--INSERT JUICEBOX EMBED-->
+      
+      
+      
+      <p align="center">&nbsp;</p>
+      <p align="center"><strong>THIS ARTICLE IS A WORK IN PROGRESS</strong></p>
+      <p align="left">This project started as a   desire to create a largescale destructive environment in the same vein as the Sandlot games (Earth Defense Force, Robotic Alchemic Drive).<br>
+        <br>
+      I prototyped a basic framework for destructible objects in 2012, and began   expanding on it out of curiosity as to how far I could push the controlled chaos. The game grew a surprisingly full state of features despite never really   leaving the status of experimental prototype.</p>
+      <p align="left">The whole thing is a mess, but you can knock down buildings and turn people into plant-zombies.</p>
+      <p align="left">DISCLAIMER - THESE PROJECTS WERE NEVER MEANT TO BE PUBLIC. PLEASE TAKE THEIR LACK OF POLISH WITH THAT IN MIND.</p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><strong>Tech -</strong> </p>
+      </p>
+      <p align="left"><em>- Environment destruction and LOD</em><br>
+        Building destruction was handled through a hierarchy of mesh LOD's and modular subsections.  
+        Child hierarchies of the destroyed meshes were deactivated until enabled by a collision with the parent.<br>
+  </p>
+      <p align="left"><em>- Basic AI + Pathfinding</em><br>
+        AI with a basic behavior system and three &quot;modes&quot;: pedestrian,   ground offensive, and airborn offensive.  <BR>
+        <BR>
+        <em>- VFX </em><br>
+Missile behavior logic, combination VFX (particles, meshes and animations) for larger effects like the mushroom cloud.<BR>
+<BR>
+<em>- Object-pooling system</em><br>
+There's a  performance impact when   mass-instantiating/destroying gameObjects,  so a better resource management   solution was necessary if the game was to be convincingly full of people. <br>
+(EXPLAIN POOLING SYSTEMS HERE)<br>
+I created a system to store and manage up to 200 AI   units during gameplay. Normally this would be handled through arrays, however my system predated Playmaker Array support and was done   instead through 200 dedicated object variables which were activated,   deactivated, and transported throughout the environment as needed.<BR>
+The system   managed 100 pedestrians\civillians, 50 ground troops, 35 armored vehicles, 10   air-support vehicles, and 5 "boss" type opponents. </p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><strong>Design - </strong></p>
+      <p align="left">Wanting a stationary player-character for a future VR experience, the giant monster plant became the avatar for the experience. Modes of interaction revolve around long-range offenses and indirect   locomotion (teleporting, etc).  <BR>
+      </p>
+      <p align="left">Gameplay Mechanics<br>
+        TBD</p>
+      <p align="left">Future: I've always wanted to make the city procedurally generated, as well as give the buildings and other objects randomized material variety, finish implementing traffic, and a few other things.</p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><strong>Prototypes-</strong></p>
+      <p align="left">Notes:<br>
+      - Each link leads to the playable build. <br>
+-
+      These builds are downloadable or require the Unity Web Player browser plugin.<br>
+      - PRESS ESC TO SKIP ANNOYING LONG INTRO
+      </p>
+      <p align="left">Controls:<br>
+        This game was designed for use with the keyboard and mouse.<br>
+        <br>
+        Left Click - Action / Select 
+      Action<br>
+      Right Click+Drag - Move Camera<br>
+      Number Keys 1-7 - Select Action<br>
+      Esc - Pause
+      <br>
+      Ctrl+1-3 - DEBUG Add Resources</p>
+      <p align="left">&nbsp;</p>
+      <div>
+        <p align="left"><a href="http://www.creathcarter.com/site_images/2012/monster/ms_a001.jpg" target="_blank"><img src="http://www.creathcarter.com/site_images/2012/monster/ms_a001.jpg" alt="snow_a001" width="400" height="231" class="fltrt"></a><a href="http://projects.creathcarter.com/monster/mon_a001.zip" target="_blank">build 001 (dec2012)</a><a href="http://projects.creathcarter.com/monster/mon_a001.zip" target="_blank"><br>
+        </a>standalone (18MB)</p>
+      <p align="left">
+      Implemented the following:<br>
+      - Ground, aerial attacks<br>
+      - Seed throwing/respawning<br>
+      - 
+      Initial pathfinding<br>
+      - Enemy/AI archetypes<br>
+      <br>
+      <br>
+      </p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><br>
+      </p>
+      <p align="left"><a href="http://www.creathcarter.com/site_images/2012/monster/ms_a005.jpg" target="_blank"><img src="http://www.creathcarter.com/site_images/2012/monster/ms_a005.jpg" alt="snow_a001" width="400" height="231" class="fltrt"></a><a href="http://projects.creathcarter.com/monster/mon_a005.zip" target="_blank">build 005 (jun2013)</a><br>
+        standalone (45MB)
+      </p>
+      <p align="left">- Cinematic/intro implementation<br>
+        - New art test<br>
+        - Tech test (volume grass, AO)<br>
+      - Detail objects (non-streaming memtest)</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><a href="http://www.creathcarter.com/site_images/2012/monster/ms_a011.jpg" target="_blank"><img src="http://www.creathcarter.com/site_images/2012/monster/ms_a011.jpg" alt="snow_a001" width="400" height="231" class="fltrt"></a><a href="http://projects.creathcarter.com/monster/mon_b011.zip" target="_blank">build 011 (jun2013)</a><br>
+        standalone (36MB)</p>
+      <p align="left">- Additional artwork<br>
+        - Full powerup implementation<br>
+        - Scoring/end-game system<br>
+      </p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><br>
+        <br>
+      </p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><a href="http://www.creathcarter.com/site_images/2012/monster/ms_a015.jpg" target="_blank"><img src="http://www.creathcarter.com/site_images/2012/monster/ms_a015.jpg" alt="snow_a001" width="400" height="231" class="fltrt"></a><a href="http://projects.creathcarter.com/monster/mon_b014.zip" target="_blank">build 014 (apr2014)</a><br>
+        standalone (34MB)      </p>
+      <p align="left">- Gameplay tweaking<br>
+        - Scoring tweaking<br>
+        - City traffic test implementation<br>
+      </p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left">&nbsp;</p>
+      <p align="left"><br>
+    </p>
+  </div>
+  </div> 
+</div>
+  
+<!-- BEGIN CREATHS FOOTER -->
+
+<div class="container">
+  <div class="c-menus" align="left">   
+      <!-- <a href="http://www.creathcarter.com/site_html/games.htm">gamedev</a> &#149; -->
+      <a href="http://www.creathcarter.com/site_html/nowplaying.htm">now playing</a>
+      <!-- <a href="http://www.creathcarter.com/site_html/timeline.htm">timeline  &#149;-->
+  </div>
+  <div class="c-base" align="right">© 
+  	<script language="javascript" type="text/javascript">
+		var today = new Date()
+		var year = today.getFullYear()
+		document.write(year)
+	</script>
+creath carter
+  </div>
+</div>
+
+<!-- END CREATHS FOOTER -->
+</div>
+
+</body>
+</html>
