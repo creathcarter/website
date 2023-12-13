@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a href="resume.htm" title="Resume" target="_top">resume</a> | <a href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>Mesarthim</h1>
+        <p style="align: center;">(2003)</p>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>Remote Mining Town<br>
+                <br>
+                The focus of this environment was to experiment with modular construction, while trying to match the graphical standards for a PC RPG at that time. This project took 2 weeks.<br>
+                <br>
+                This was one of the first implementations for real-time 3D I created individually that involved both visual content creation and scripting.<br>
+                <br>
+                Polycount: 29,612 not including particle systems<br>
+                Texture memory: 18MB<br>
+                Models authored in 3dsMax 5.1<br>
+                Textures authored in Photoshop 7 with combination of hand painting and photogrammetry.<br>
+                <br>
+                This has a playable demo here:<br>
+                &nbsp;</td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/prer01.jpg" target="_blank"><img src="proj_mesarthim/prer01.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/prer02.jpg" target="_blank"><img src="proj_mesarthim/prer02.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/prer03.jpg" target="_blank"><img src="proj_mesarthim/prer03.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/prer04.jpg" target="_blank"><img src="proj_mesarthim/prer04.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/wire02.jpg" target="_blank"><img src="proj_mesarthim/wire02.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/wire03.jpg" target="_blank"><img src="proj_mesarthim/wire03.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/wire04.jpg" target="_blank"><img src="proj_mesarthim/wire04.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_mesarthim/wire05.jpg" target="_blank"><img src="proj_mesarthim/wire05.jpg"></a></td>
+            </tr>
+
+          </tbody>
+        </table>
+        <div class="space"></div>
+      </div>
+      <!-- END BODY-->
+      <!-- BEGIN BASE MENU -->
+      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing" target="_top">now playing</a> </div>
+      <div class="footer" align="right">©2023 creath carter </div>
+    </div>
+    <!-- END BASE MENU -->
+    
+  </body>
+</html>

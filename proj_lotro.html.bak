@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a href="resume.htm" title="Resume" target="_top">resume</a> | <a href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>Lord of the Rings Online</h1>
+        <p style="align: center;">Turbine's Online RPG</p>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>I was a Staff Worldbuilder on the project who also handled art content creation for new areas of the game.</td>
+            </tr>
+            <tr>
+              <td><br>
+                I helped concept Enedwaiths geography and biomes, created the majority of the terrain textures, and environment art assets such as trees, rocks, and other natural features.&nbsp; I did not create characters, structures, or architectural
+                elements. <br>
+                <br>
+                I also assisted in the concept of the region, regional cultural development, flora and fauna concepts, quest and settlement locations, POI concepts and locations, heightmap generation, landscape painting, and gameplay element placement. </td>
+            </tr>
+            <tr>
+              <td><a href="proj_lotro/cc_lotro_enedA.jpg" target="_blank"><img src="proj_lotro/cc_lotro_enedA.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_lotro/cc_lotro_enedB.jpg" target="_blank"><img src="proj_lotro/cc_lotro_enedB.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_lotro/cc_lotro_enedC.jpg" target="_blank"><img src="proj_lotro/cc_lotro_enedC.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><a href="proj_lotro/cc_lotro_enedE.jpg" target="_blank"><img src="proj_lotro/cc_lotro_enedE.jpg"></a></td>
+            </tr>
+            <tr>
+              <td><br>
+                Southern Mirkwood was the second area I contributed to, handling some terrain texture content, art content creation for natural features, biome layout, landscape painting, and POI concepts and placement. </td>
+            </tr>
+            <tr>
+              <td><a href="proj_lotro/cc_lotro_mirkA.jpg" target="_blank"> <img src="proj_lotro/cc_lotro_mirkA.jpg"></a> </td>
+            </tr>
+            <tr>
+              <td><br>
+                My first role on the LOTRO team was to create sub-areas for the Mines of Moria expansion.&nbsp; I created no art content, and only developed small, individual dungeons and rooms.</td>
+            </tr>
+            <tr>
+              <td><a href="proj_lotro/cc_lotro_moriaA.jpg" target="_blank"> <img src="proj_lotro/cc_lotro_moriaA.jpg"></a> </td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="space"></div>
+      </div>
+      <!-- END BODY-->
+      <!-- BEGIN BASE MENU -->
+      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing" target="_top">now playing</a> </div>
+      <div class="footer" align="right">©2023 creath carter </div>
+    </div>
+    <!-- END BASE MENU -->
+  </body>
+</html>
