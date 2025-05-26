@@ -10,116 +10,201 @@
     <!-- BEGIN HEADER MENU-->
     <div class="container">
       <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
-      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a href="resume.htm" title="Resume" target="_top">resume</a> | <a href="about.htm" target="_top">about</a></div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+          href="about.htm" target="_top">about</a></div>
     </div>
     <!-- END HEADER MENU-->
     <!-- BEGIN BODY-->
     <div class="container" align="center">
       <div class="space"> </div>
-      My name is Creath Carter and I'm a Technical Artist and Designer for Interactive Media.
+      <br>
+      <table class="table">
+        <tbody>
+          <tr>
+            <td>Hi.</td>
+          </tr>
+          <tr>
+            <td style="height: 80px;">My name is Creath Carter and I'm a Technical Artist and Designer for Interactive Media.<br>
+              <br>
+              This is my personal website of work from my time in the Games industry and related fields.<br>
+              I am also Creative Director for <a href="https://www.studioartician.com"
+                target="_blank">studioArtician</a>, and current professional work can be seen there.<br>
+              <br>
+              I am employed but am available for cool projects.</td>
+          </tr>
+          <tr>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="container" align="center">
       <div class="space"> </div>
-      <div class="content">ENVIRONMENT ART </div>
-      <div class="space"> </div>
-      <!--START JUICEBOX EMBED-->
-      <script src="jbcore/juicebox.js"></script>
-      <script>
-        new juicebox({
-			baseUrl: 'gallery/environments/',
-			containerId: "juicebox-container1",
-			galleryWidth: "100%",
-			galleryHeight: "80%",
-			backgroundColor: "rgba(0,0,0,1)"
-        });
-        </script>
-      <div id="juicebox-container1"><noscript><p>Environment Art</p>
-				<p><img src="proj_imvu/wr2_01.png" title="WithMe"><br>WithMe Welcome Room</p>
-        <p><img src="proj_ravenbox/rb_wip.jpg" title="raven box wip"><br>Raven Box WIP</p>
-        <p><img src="proj_pumpkin_caps/cc_pcap_nightB.jpg" title="Pumpkin Caps"><br>Pumpkin Caps</p>
-        <p><img src="proj_zeebizoo/zzoo_screen1.jpg" title="zeebizoo"><br>Zeebi Zoo</p>
-        <p><img src="proj_lotro/cc_lotro_enedA.jpg" title="Enedwaith"><br>Enedwaith</p>
-        <p><img src="proj_trike/trikeA.png" title="Garden of Regret"><br>Garden of Regret</p>
-        <p><img src="proj_sculpts/mTreeA.png" title="Morbid Tree"><br>Morbid Tree</p>
-    </noscript> </div>
-      <!--END JUICEBOX EMBED-->
-      <div align="left">
-        <p>&nbsp;</p>
-        <h4>CHARACTER ART<br>
-        </h4>
-      </div>
-      <!--START JUICEBOX EMBED-->
-      <script src="jbcore/juicebox.js"></script>
-      <script>
-        new juicebox({
-			baseUrl: 'gallery/characters/',
-			containerId: "juicebox-container2",
-			galleryWidth: "100%",
-			galleryHeight: "80%",
-			backgroundColor: "rgba(0,0,0,1)"
-        });
-        </script>
-      <div id="juicebox-container2">
-        <!-- Image gallery content for non-javascript devices --> <noscript>
-            <p><img src="images/ms_a015.jpg" title="ms_a015" alt=""><br>ms_a015 </p>
-            <p><img src="images/rocketFSM.jpg" title="rocketFSM" alt=""><br>rocketFSM </p>
-            <p><img src="images/games_01_2015.jpg" title="games_01_2015" alt=""><br>games_01_2015 </p>
-            <p><img src="images/snow_a025.jpg" title="snow_a025" alt=""><br>snow_a025 </p>
-            <p><img src="images/zzoo_screen1.jpg" title="zzoo_screen1" alt=""><br>zzoo_screen1 </p>
-            <p><img src="images/games_02_2015.jpg" title="games_02_2015" alt=""><br>games_02_2015 </p>
-        </noscript> </div>
-      <!--END JUICEBOX EMBED-->
-      <div class="content" align="left">
-        <p>&nbsp;</p>
-        <h4>ILLUSTRATION, TECH DESIGN, VISUAL COMMUNICATION<br>
-        </h4>
-      </div>
-      <!--START JUICEBOX EMBED-->
-      <script src="jbcore/juicebox.js"></script>
-      <script>
-        new juicebox({
-			baseUrl: 'gallery/illustrations/',
-			containerId: "juicebox-container3",
-			galleryWidth: "100%",
-			galleryHeight: "80%",
-			backgroundColor: "rgba(0,0,0,1)"
-        });
-        </script>
-      <div id="juicebox-container3">
-        <!-- Image gallery content for non-javascript devices --> <noscript>
-        <p><img src="images/kmi_paintCompA.jpg" title="kmi_paintCompA" alt=""><br>kmi_paintCompA </p>
-        <p><img src="images/abd.jpg" title="abd" alt=""><br>abd </p>
-        <p><img src="images/sticks_splashA.jpg" title="sticks_splashA" alt=""><br>sticks_splashA </p>
-        <p><img src="images/sk_compFullA.jpg" title="sk_compFullA" alt=""><br>sk_compFullA </p>
-        </noscript> </div>
-      <!--END JUICEBOX EMBED-->
-      <div align="left">
-        <p>&nbsp;</p>
-        <h4>PHOTOGRAPHY</h4>
-      </div>
-      <!--START JUICEBOX EMBED-->
-      <script src="jbcore/juicebox.js"></script>
-      <script>
-        new juicebox({
-			baseUrl: 'gallery/photos/',
-			containerId: "juicebox-container4",
-			galleryWidth: "100%",
-			galleryHeight: "80%",
-			backgroundColor: "rgba(0,0,0,1)"
-        });
-        </script>
-      <div id="juicebox-container4">
-        <!-- Image gallery content for non-javascript devices --> <noscript>
-            <p><img src="images/wineye_splashA.jpg" title="wineye_splashA" alt=""><br>wineye_splashA </p>
-            <p><img src="images/costaB_splashA.jpg" title="costaB_splashA" alt=""><br>costaB_splashA </p>
-            <p><img src="images/costa_splashA.jpg" title="costa_splashA" alt=""><br>costa_splashA </p>
-            <p><img src="images/endora_splashA.jpg" title="endora_splashA" alt=""><br>endora_splashA </p>
-            <p><img src="images/squir_splashA.jpg" title="squir_splashA" alt=""><br>squir_splashA </p>
-        </noscript> </div>
-      <!--END JUICEBOX EMBED-->
-      <div class="space"></div>
+      <br>
+      <table class="table">
+        <tbody>
+          <tr>
+            <td>Omegarena - Unfinished | Ongoing<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj - Unfinished | Suspended<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>IMVU/WithMe<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>TMG Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td>GameJam Proj<br>
+              <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="container" align="center"><br>
+      <br>
     </div>
     <!-- END BODY-->
     <!-- BEGIN BASE MENU -->
-    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing" target="_top">now playing</a> </div>
+    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+        target="_top">now playing</a> </div>
     <div class="footer" align="right">©2023 creath carter </div>
     <!-- END BASE MENU -->
   </body>

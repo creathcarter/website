@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="00416a802fe782c59a8c68b59c3b4619">
+    <title>creath carter | art and design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body id="body">
+    <!-- BEGIN HEADER MENU-->
+    <div class="container">
+      <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+
+          href="about.htm" target="_top">about</a></div>
+    </div>
+    <!-- END HEADER MENU-->
+    <!-- BEGIN BODY-->
+    <div class="container" align="center">
+      <div class="content">
+        <div class="space"> </div>
+        <h1>Project Title</h1>
+        <p style="align: center;">PROJECT SUMMARY</p>
+        <p style="align: center;">PROJECT DESCRIPTION</p>
+        <table class="table">
+          <tbody>
+            <tr>
+              <td style="height: 228px;"><a href="proj_chessed/proj_chessedA.jpg"
+
+                  target="_blank"> <img src="_media/error.jpg" title="error"
+
+                    alt="error" height="auto" width="auto" align="middle"></a></td>
+            </tr>
+            <tr>
+              <td>DESCRIPTIVE TEXT</td>
+            </tr>
+            <tr>
+              <td><a href="proj_chessed/proj_chessedB.jpg" target="_blank"> <img
+
+                    src="_media/error.jpg" title="error" alt="error" height="448"
+
+                    width="720" align="middle"></a></td>
+            </tr>
+            <tr>
+              <td>DESCRIPTIVE TEXT</td>
+            </tr>
+            <tr>
+              <td><a href="proj_chessed/proj_chessedD.jpg" target="_blank"> <img
+
+                    src="_media/error.jpg" title="error" alt="error" height="448"
+
+                    width="720" align="middle"></a> </td>
+            </tr>
+            <tr>
+              <td>DESCRIPTIVE TEXT</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="space"></div>
+      </div>
+      <!-- END BODY-->
+      <!-- BEGIN BASE MENU -->
+      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing" target="_top">now playing</a> </div>
+      <div class="footer" align="right">©2023 creath carter </div>
+    </div>
+    <!-- END BASE MENU -->
+  </body>
+</html>

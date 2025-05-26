@@ -13,841 +13,1374 @@
       <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a href="resume.htm" title="Resume" target="_top">resume</a> | <a href="about.htm" target="_top">about</a></div>
     </div>
     <!-- END HEADER MENU-->
-    <div class="container">
-      <div class="content" align="center">
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p><u>now playing near me</u></p>
-        <div class="content" align="right">
-          <p><strong>Jan 2019 </strong><br>
-            Atelier Firis (PS4) </p>
-          <p><strong>Favorite of 2018</strong><br>
-            Beat Saber (Vive) </p>
-          <p><strong>Xmas Game 2018</strong><br>
-            God of War (PS4)<br>
-          </p>
-          <p><strong>Dec 2018 </strong><br>
-            Battleblock Theater (PC) Gorogoa (PC) Monsterboy (Switch) </p>
-          <p><strong>Nov 2018 </strong><br>
-            Super Mario Galaxy (Switch) Lovers in a Dangerous Spacetime (Switch) Sundered (PC)<br>
-            Real Lives (PC) Old Mans Journey (Switch)<br>
-            Oct 2018 <br>
-            Make Sail (PC)<br>
-          </p>
-          <p><strong> Sept 2018 </strong><br>
-            Dragon Quest XI (PS4)<br>
-            Birthdays (Switch)<br>
-            Burning Heroes (SNES)<br>
-          </p>
-          <p><strong> Aug 2018 </strong><br>
-            Monstania (SNES)<br>
-          </p>
-          <p><strong> July 2018 </strong><br>
-            Snipperclips (Switch)<br>
-            Kirby Star Allies (Switch)<br>
-            Snake Pass (Switch)<br>
-            Legacy of the Wizard (NES)<br>
-          </p>
-          <p><strong> June 2018 </strong><br>
-            Stardew Valley (PC) <br>
-            Emerald Dragon (SNES) <br>
-            Dark Half (SNES) <br>
-            Marvelous (SNES)) <br>
-          </p>
-          <p><strong> May 2018 </strong><br>
-            Dark Law: Meaning of Death (SNES)<br>
-            Beat Saber (Vive)<br>
-            Gorn (Vive)<br>
-            Dual Orb 2 (SNES)<br>
-          </p>
-          <p><strong> Apr 2018 </strong><br>
-            Star Ocean (SNES)<br>
-            Ghost of a Tale (PC)<br>
-          </p>
-          <p><strong> Mar 2018 </strong><br>
-            Ni No Kuni 2 (PS4)<br>
-            A Way Out (PS4)<br>
-          </p>
-          <p><strong> Feb 2018 </strong><br>
-            Shadow of the Colossus (PS4)<br>
-            Secret of Mana (PS4)<br>
-            Sword Craft Story 2 (cont) (DS)<br>
-            Geneforge 2 (PC)<br>
-            Monster Hunter World (PS4)<br>
-          </p>
-          <p><strong> Jan 2018 </strong><br>
-            Atelier Sophie (PS4)<br>
-          </p>
-          <p><strong> Favorite of 2017 </strong><br>
-            Ys 8<br>
-          </p>
-          <p><strong> Dec 2017 </strong><br>
-            Salt and Sanctuary<br>
-            Dragon Quest Builders<br>
-          </p>
-          <p><strong> Nov 2017 </strong><br>
-            Horizon Zero Dawn (PS4)<br>
-            Disgaea 5 (PS4)<br>
-            Divinity Original Sin 2(PC)<br>
-          </p>
-          <p><strong> Oct 2017 </strong><br>
-            Lennus 2 (SNES)<br>
-            Paladin's Quest (SNES)<br>
-            Battle Chasers (PS4)<br>
-            Ys 8 (PS4)<br>
-            Rocket League (PC)<br>
-            Yonder (PS4) <br>
-          </p>
-          <p><strong> Sept 2017 </strong><br>
-            Final Fantasy 15 (PS4)<br>
-            Dark Souls 3 (PS4)<br>
-            Odin Sphere Leifthrasir (PS4)<br>
-            Arcana (SNES)<br>
-            Star Ocean I&amp;F (PS4)<br>
-            Bloodborne (PS4) <br>
-          </p>
-          <p><strong> Aug 2017 </strong><br>
-            Aztez (PC) <br>
-            Night in the Woods (PC) <br>
-            Dark Souls 2 Scholar of the First Sin (PS3) <br>
-            Secret of the Stars (SNES) <br>
-          </p>
-          <p><strong> July 2017 </strong><br>
-            Shadow of Mordor (PS3)<br>
-            Portal Stories VR (PC)<br>
-            VR Retreat (PC)<br>
-            Derail Valley (PC)<br>
-            Golf Club VR (PC)<br>
-            SuperHot VR (PC)<br>
-          </p>
-          <p><strong> June 2017 </strong><br>
-            Dragon View (SNES)<br>
-            Atelier Escha and Logy (PS3)<br>
-          </p>
-          <p><strong> May 2017 </strong><br>
-            Atelier Ayesha (PS3)<br>
-            Atelier Shallie (PS3)<br>
-          </p>
-          <p><strong> Apr 2017 </strong><br>
-            Persona 5 (PS3)<br>
-            Castlevania Rondo of Blood (TG16)<br>
-            Kirby 64 (N64)<br>
-            Castlevania 64 (N64)<br>
-          </p>
-          <p><strong> Mar 2017 </strong><br>
-            Zelda Breath of the Wild (WiiU)<br>
-          </p>
-          <p><strong> Feb 2017 </strong><br>
-            Secret of Mana (SNES)<br>
-            Minecraft (PC)<br>
-            Guild Wars 2 (PC)<br>
-            PSO Blue Burst (PC)<br>
-            Milons Secret Castle (NES)<br>
-            Bubble Bobble (NES)</p>
-          <p><strong> Jan 2017 </strong><br>
-            Zelda Majora's Mask (N64) <br>
-            Feda Emblem of Justice (SNES)<br>
-            Bust a Move 4 (Arc)<br>
-            Kirby's Avalanche (SNES)<br>
-            Zelda Link to the Past (SNES)<br>
-            Super Metroid (SNES)<br>
-            Ark (PC) </p>
-          <p><strong> Favorite of 2016 </strong><br>
-            Grandia (PS1)<br>
-          </p>
-          <p><strong> Xmas Game 2016 </strong><br>
-            <em>None :(</em> </p>
-          <p><strong> Dec 2016 </strong><br>
-            Xenogears (PS1)<br>
-            Daggerfall (PC)<br>
-            Descent to Undermountain (PC)<br>
-          </p>
-          <p><strong> Nov 2016 </strong><br>
-            CrossCode (PC)<br>
-            <strong><br>
-              Oct 2016 </strong><br>
-            The Night Cafe (Vive)<br>
-            Waltz of the Wizard (Vive)<br>
-            The Lab (Vive)<br>
-            Vanishing Realms (Vive)<br>
-            Acan's Call (Vive)<br>
-            Rimworld (PC)<strong><br>
-            </strong>Katamari Forever (PS3)<strong><br>
-              <br>
-              Sept 2016</strong><br>
-            <em>None :(</em><strong><br>
-              <br>
-              Aug 2016<br>
-            </strong> Tales of Eternia(PS1)<br>
-            Suikoden (PS1)</p>
-          <p><strong> July 2016 <br>
-            </strong> Fantastic Contraption (Vive)<br>
-            Kings Field 2 (PS1)<br>
-            Kings Field (PS1)<strong><br>
-              <br>
-              June 2016<br>
-            </strong> Tomba (PS1)<br>
-            Threads of Fate (PS1)<br>
-            Front Mission 3 (PS1)<br>
-            Arc the Lad (PS1)<br>
-          </p>
-          <p><strong> May 2016</strong><br>
-            Grandia (PS1)<br>
+    <div class="content" align="center">
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><u>now playing near me</u></p>
+      <div class="content" align="right">
+        
+<p><strong>July 2024</strong><br>
+  Tengai Makyou Ziria (TGCD)<br>
+  Neugier: Journey Home (SNES)<br>
+  Faussete Amour (TGCD)<br>
+  Tengai Makyou Zero (SNES)<br>
+</p>
+
+<p><strong>June 2024</strong><br>
+  Megalomania (DOS)<br>
+  GranBlue Fantasy ReLink (PC)<br>
+  Elden Ring Shadow of the Erdtree (PS4)<br>
+</p>
+
+<p><strong>May 2024</strong><br>
+  Melfand Stories (SNES)<br>
+  Moonstone (PC)<br>
+  Tetris (NES)<br>
+  Tetris 2 (NES)<br>
+</p>
+
+<p><strong>April 2024</strong><br>
+  Helldivers 2 (PC)<br>
+  Unicorn Overlord (Switch)<br>
+</p>
+
+<p><strong>March 2024</strong><br>
+  Barkley Shut Up And Jam Gaiden (PC)<br>
+  Legend of Heroes Trails of Cold Steel (PC)<br>
+  Radiant Silvergun (Saturn)<br>
+</p>
+
+<p><strong>February 2024</strong><br>
+  Legend of Heroes Trails to Azure (PC)<br>
+  Pacific Drive (PC)<br>
+  P4Arena Ultimax (PC)<br>
+</p>
+
+<p><strong>January 2024</strong><br>
+  Legend of Heroes Trails from Zero (PC)<br>
+  Grand Knights Story (PSP)<br>
+  Dragon Warrior (NES)<br>
+  Exit 8 (PC)<br>
+</p>
+        
+
+<p><strong>December 2023</strong><br>
+  Assassins Creed (VR)<br>
+  Dungeons of Eternity (VR)<br>
+  First Encounters (VR)<br>
+</p>
+
+<p><strong>November 2023</strong><br>
+  Moonring (PC)<br>
+  Legend of Heroes Trails in the Sky 2 (PC)<br>
+</p>
+
+<p><strong>October 2023</strong><br>
+  Super Mario Wonder (Switch)<br>
+  Zelda Links Awakening (Switch)<br>
+  Protect Me Knight (360)<br>
+  Zelda Links Awakening DX (GBC)<br>
+  Protect Me Knight (PC)<br>
+</p>
+
+<p><strong>September 2023</strong><br>
+  Psycho Dream (SNES)<br>
+  Superspace (PC)<br>
+  Dawn of Mana (PS2)<br>
+</p>
+
+<p><strong>August 2023</strong><br>
+  EDF 5 (PC)<br>
+  Bulk Slash (Saturn)<br>
+  Little Big Planet 3 (PC)<br>
+  Baldurs Gate 3 (PC)<br>
+  Kirby's Super Star (SNES)<br>
+</p>
+
+<p><strong>July 2023</strong><br>
+  Zelda Tears of the Kingdom (Switch)<br>
+  Gods Eater Burst (PSP)<br>
+  Disaster Report 3 (PSP)<br>
+  Final Fantasy Type-0 (PSP)<br>
+  Betty & Earl (PC)<br>
+</p>
+
+<p><strong>June 2023</strong><br>
+  Zelda Tears of the Kingdom (Switch)<br>
+</p>
+
+<p><strong>May 2023</strong><br>
+  Guardian Heroes (Saturn)<br>
+  Burnout 2 (GC)<br>
+  Snatcher (Sega CD)<br>
+  Mana Khemia (PS2)<br>
+  Magic Carpet (PC)<br>
+  Magic Carpet (Saturn)<br>
+  Magic Carpet (PS1)<br>
+</p>
+
+<p><strong>April 2023</strong><br>
+  Alcahest (SNES)<br>
+  Xak (SNES)<br>
+  Soul Blazer (SNES)<br>
+  Legend of Legaia (PS1)<br>
+  Faxanadu Retranslation (NES)<br>
+  Xak 2 (MSX)<br>
+</p>
+
+<p><strong>March 2023</strong><br>
+  Sonic Adventure 2 (DC)<br>
+  Rez (DC)<br>
+  Secret of Mana Turbo (Hack)<br>
+  Ys 1&2 (TGCD)<br>
+  Zill O'll Infinite (PS2)<br>
+  Golvellius (Master System)<br>
+  God Slayer (NES)<br>
+  Genji Tsuushin Agedama (TG16)<br>
+  Faxanadu (NES)<br>
+</p>
+
+<p><strong>February 2023</strong><br>
+  Terranigma (SNES)<br>
+  Illusion of Gaia (SNES)<br>
+  Actraiser (SNES)<br>
+  Actraiser Retranslation (SNES)<br>
+  Yoshi's Island (SNES)<br>
+  Crystalis (NES)<br>
+  Rolans Curse (Gameboy)<br>
+</p>
+
+<p><strong>January 2023</strong><br>
+  Bimini Run (Genesis)<br>
+  Persona (PS1)<br>
+  DoReMi Fantasy (SNES)<br>
+  Madou Monogatari (SNES)<br>
+  Wonder Project J (SNES)<br>
+  Asuka 120% (TGCD)<br>
+  Chou Aniki (TGCD)<br>
+  Ai Chou Aniki (TGCD)<br>
+  Steam-Hearts (TGCD)<br>
+  Adventure of Chris (TGCD)<br>
+  Bazaru De Gozaru No Game De Gozaru (TGCD)<br>
+</p>
+        
+        
+        
+// AI Formatted Above
+        
+        <p><strong>Favorite of 2022</strong><br>
+          Elden Ring<br>
+        </p>
+        <p><strong>Xmas Game 2022</strong><br>
+          Cities Skyline(PC)<br>
+        </p>
+        <p><strong>Dec 2022</strong><br>
+          PoPoLoCrois (PS1)<br>
+          Grandia 3 (PS2)<br>
+          Wipeout 3 (PS1)<br>
+        </p>
+        <p><strong>Nov 2022</strong><br>
+          Dinosaur Planet (N64)<br>
+          Star Fox (SNES)<br>
+          Actraiser (SNES)<br>
+          Wild ARMs (PS1)<br>
+          Granstream Saga (PS1)<br>
+          Evolution (DC)<br>
+          Evolution 2 (DC)<br>
+        </p>
+        <p><strong>Oct 2022</strong><br>
+          Aidyn Chronicles (N64)<br>
+        </p>
+        <p><strong>Sept 2022</strong><br>
+          GOD (SNES)<br>
+          Aidyn Chronicles (N64)<br>
+        </p>
+        <p><strong>Aug 2022</strong><br>
+          Tales of Vesperia (360)<br>
+          Robotic Alchemic Drive (PS2)<br>
+          Tori no Hoshi (PS2)<br>
+          Ghost Sweeper Mikami (SNES)<br>
+          Virtual Hydlide (Saturn)<br>
+          Remote Control Dandy (PS1)<br>
+          Persona 5 Strikers (Switch)<br>
+          Panel de Pon (SNES)<br>
+        </p>
+        <p><strong>July 2022</strong><br>
+          Shockman (TG16)<br>
+          Landstalker (Genesis)<br>
+          Guardians Crusade (PS1)<br>
+          Alundra 2 (PS1)<br>
+          Harmful Park (PS1)<br>
+          Gunnm Martial Memory (Battle Angel) (PS1)<br>
+          Tales of Destiny (PS1)<br>
+          Tales of Eternia (PS1)<br>
+          Tales of the Abyss (PS2)<br>
+          Tales of Legendia (PS2)<br>
+          Tales of Symphonia (GC)<br>
+          Tales of Rebirth (PS2)<br>
+          Seven Pirates (Switch)<br>
+        </p>
+        <p><strong>June 2022</strong><br>
+          Vampire Survivors (PC)<br>
+          Godhand (PS2)<br>
+          Salt and Sacrifice (PS4)<br>
+          Magical Quest, Mickey Mouse (SNES)<br>
+          Neutopia (TG16)<br>
+          Neutopia 2 (TG16)<br>
+          Drakkan 2 (SNES)<br>
+        </p>
+        <p><strong>Mar 2022</strong><br>
+          Elden Ring (PS4)<br>
+          Headliner (PC)<br>
+        </p>
+        <p><strong>Apr 2022</strong><br>
+          Elden Ring (PS4)<br>
+          Cyberpunk 2077 (PC)<br>
+          Teardown (PC) </p>
+        <p><strong>Mar 2022</strong><br>
+          Elden Ring (PS4)<br>
+        </p>
+        <p><strong>Feb 2022</strong><br>
+          Elden Ring (PS4)<br>
+        </p>
+        <p><strong>Jan 2022</strong><br>
+          Vampire Survivors (PC)<br>
+        </p>
+        <p><strong>Favorite of 2021</strong><br>
+          Valheim (PC)<br>
+        </p>
+        <p><strong>Xmas Game 2021</strong><br>
+          Like a Dragon (PS4)<br>
+          Hollow Knight (Switch)<br>
+        </p>
+        <p><strong>Dec 2021</strong><br>
+          Zeus and Poseidon (PC)<br>
+        </p>
+        <p><strong>Nov 2021</strong><br>
+          Tales of Arise (PS4)<br>
+          Doom 2016 (PC)<br>
+          Lands of Lore (PC)<br>
+          Inscryption (PC)<br>
+        </p>
+        <p><strong>Oct 2021</strong><br>
+          Rimworld (PC)<br>
+          Red Dead Redemption 2 (PS4)<br>
+          Spiderman (PS4)<br>
+        </p>
+        <p><strong>Sept 2021</strong><br>
+          Headhunter (Dreamcast)<br>
+          Headhunter Redemption (PS2)<br>
+          God Hand (PS2)<br>
+        </p>
+        <p><strong>Aug 2021</strong><br>
+          It Takes Two (PS4)<br>
+          Detroit Become Human (PS4)<br>
+          Sakuna (Switch)<br>
+          Castlevania Rondo of Blood (TGCD)<br>
+        </p>
+        <p><strong>July 2021</strong><br>
+          Trials of Mana (Switch)<br>
+        </p>
+        <p><strong>June 2021</strong><br>
+          Hades (Switch)<br>
+          Atelier Ryza (Switch)<br>
+        </p>
+        <p><strong>May 2021</strong><br>
+          Mizzurna Falls (PS1)<br>
+          Shadow Tower Abyss (PS2)<br>
+          Valkyrie Profile (PS1)<br>
+        </p>
+        <p><strong>Apr 2021</strong><br>
+          Nothing :(<br>
+        </p>
+        <p><strong>Mar 2021</strong><br>
+          Ys 9 (PS4)<br>
+          Valheim (PC)<br>
+        </p>
+        <p><strong>Feb 2021</strong><br>
+          Dragon Force (Saturn)<br>
+          Dragon Force 2 (Saturn)<br>
+          Hakaio King of Crusher (PS1)<br>
+          Linkle Liver Story (Saturn)<br>
+          Lack of Love (Dreamcast)<br>
+          LSD Dream Emulator (PS1)<br>
+          Adventure of Little Ralph (PS1)<br>
+          Sakura Wars (Saturn)<br>
+          Nosferatu (SNES)<br>
+          Popful Mail (SegaCD)<br>
+        </p>
+        <p><strong>Jan 2021</strong><br>
+          Devil Daggers (PC)<br>
+          Deep Rock Galactic (PC)<br>
+          Magic Knight Rayearth (Saturn)<br>
+          Radiant Silvergun (Saturn)<br>
+          Panzer Dragoon Saga (Saturn)<br>
+          Napple Tale (DC)<br>
+        </p>
+        <p><strong>Favorite of 2020</strong><br>
+          Outer Wilds (PC)<br>
+        </p>
+        <p><strong>Xmas Game 2020</strong><br>
+          Might and Magic 678 World of Enroth (PC)<br>
+        </p>
+        <p><strong>Dec 2020</strong><br>
+          Might and Magic 678 World of Enroth (PC)<br>
+        </p>
+        <p><strong>Nov 2020</strong><br>
+          Heart of the Alien (Sega CD)<br>
+          Another World (Sega CD)<br>
+          Return of the Obra Dinn (PC)<br>
+        </p>
+        <p><strong>Oct 2020</strong><br>
+          Phasmophobia (PC VR)<br>
+          VirtuaVerse (PC)<br>
+          Trails in the Sky (PC)<br>
+          There Is No Game:JE (PC)<br>
+          There Is No Game: WD (PC)<br>
+        </p>
+        <p><strong>Sept 2020</strong><br>
+          Among Us (PC)<br>
+          13 Sentinels (Switch)<br>
+          Ring Fit Adventure (Switch)<br>
+        </p>
+        <p><strong>Aug 2020</strong><br>
+          Tales of Berseria (Watched)<br>
+          Final Fantasy 7 Remake (Watched)<br>
+          Shenmue 3 (Watched)<br>
+        </p>
+        <p><strong>July 2020</strong><br>
+          Outer Wilds (PC)<br>
+          Death Stranding (Watched)<br>
+          The Last of Us 2 (Watched)<br>
+          Enchanted Arms (Watched)<br>
+          Paper Mario Origami King (Switch)<br>
+          Kingdom Come (PC)<br>
+        </p>
+        <p><strong>June 2020</strong><br>
+          Hellblade (PC VR)<br>
+          Overland (PC)<br>
+          Minit (PC)<br>
+          Starseed Pilgrim (PC)<br>
+          Kids (PC)<br>
+          Paralax (PC)<br>
+          Oxenfree (PC)<br>
+          A Short Hike (PC)<br>
+          Risk of Rain 2 (PC)<br>
+          Earth Defense Force 5 (PC)<br>
+          Warhammer Vermintide 2 (PC)<br>
+          Rimworld (PC)<br>
+        </p>
+        <p><strong>May 2020</strong><br>
+          Atelier Marie and Elie (PS2)<br>
+          Kind Words (PC)<br>
+        </p>
+        <p><strong>Apr 2020</strong><br>
+          Halflife Alyx (PC VR)<br>
+          Tobal 2 (PS1)<br>
+          Fireteam Rogue (SNES)<br>
+          Zombie Virus (Zombie vs. Ambulance, EU) (PS2)<br>
+          Sword of Etheria (Oz, EU) (PS2)<br>
+          Drakengard (PS2)<br>
+        </p>
+        <p><strong>Mar 2020</strong><br>
+          Popful Mail (Sega CD)<br>
+          Mushroom 11 (PC)<br>
+        </p>
+        <p><strong>Feb 2020</strong><br>
+          Fire Emblem Three Houses(Switch)<br>
+          Thrill of the Fight (PC VR)<br>
+          Ogre Battle (SNES)<br>
+        </p>
+        <p><strong>Jan 2020</strong><br>
+          Atelier Lulua (Switch)<br>
+          <br>
+        </p>
+        <p><strong>Favorite of 2019</strong><br>
+          Worlds (PC)<br>
+        </p>
+        <p><strong>Xmas Game 2019</strong><br>
+          Torment Numenera (PC)<br>
+        </p>
+        <p><strong>Dec 2019 </strong><br>
+          Spiderman (PS3)<br>
+          Anno 1303 (PC)<br>
+          Dragons Crown Pro (PS4)<br>
+          Ducktales (NES)<br>
+        </p>
+        <p><strong>Nov 2019 </strong><br>
+          Worlds (PC)<br>
+          Heave Ho (Switch)<br>
+        </p>
+        <p><strong>Oct 2019 </strong><br>
+          Gloomhave TTS (PC)<br>
+          Incremancer (PC)<br>
+        </p>
+        <p><strong>Sept 2019 </strong><br>
+          Harvest Massive Encounter (PC)<br>
+          Untitled Goose Game (Switch)<br>
+          Dead Cells (Switch)<br>
+        </p>
+        <p><strong>Aug 2019 </strong><br>
+          No Mans Sky (VR)<br>
+          Mystery Quest (NES)<br>
+          Solomons Key (NES) Diablo (PC) </p>
+        <p><strong>July 2019 </strong><br>
+          Moonlighter (PC)<br>
+          Super Sprint (NES)<br>
+          Super Sprint (Arcade)<br>
+          Romancing Saga 3 (SNES)<br>
+        </p>
+        <p><strong>June 2019 </strong><br>
+          Uncharted Waters (SNES)<br>
+          Pyre (PC)<br>
+          City of Heroes (PC)<br>
+        </p>
+        <p><strong>May 2019 </strong><br>
+          Last Guardian (PS4)<br>
+          Sekiro (PS4)<br>
+        </p>
+        <p><strong>April 2019 </strong><br>
+          Yakuza 6 (PS4)<br>
+          Atelier Lydie and Suelle (PS4)<br>
+          Robotrek (SNES)<br>
+        </p>
+        <p><strong>March 2019 </strong><br>
+          Nier Automata (PS4)<br>
+        </p>
+        <p><strong>Jan 2019 </strong><br>
+          Final Fantasy 5 (SNES)<br>
+          Yakuza 0 (PS4)<br>
+          Atelier Firis (PS4)<br>
+        </p>
+        <p><strong>Favorite of 2018</strong><br>
+          Beat Saber (Vive)<br>
+        </p>
+        <p><strong>Xmas Game 2018</strong><br>
+          God of War (PS4)<br>
+        </p>
+        <p><strong>Dec 2018 </strong><br>
+          Battleblock Theater (PC)<br>
+          Gorogoa (PC)<br>
+          Monsterboy (Switch)<br>
+        </p>
+        <p><strong>Nov 2018 </strong><br>
+          Super Mario Galaxy (Switch)<br>
+          Lovers in a Dangerous Spacetime (Switch)<br>
+          Sundered (PC)<br>
+          Real Lives (PC)<br>
+          Old Mans Journey (Switch)<br>
+          Oct 2018 <br>
+          Make Sail (PC)<br>
+        </p>
+        <p><strong> Sept 2018 </strong><br>
+          Dragon Quest XI (PS4)<br>
+          Birthdays (Switch)<br>
+          Burning Heroes (SNES)<br>
+        </p>
+        <p><strong> Aug 2018 </strong><br>
+          Monstania (SNES)<br>
+        </p>
+        <p><strong> July 2018 </strong><br>
+          Snipperclips (Switch)<br>
+          Kirby Star Allies (Switch)<br>
+          Snake Pass (Switch)<br>
+          Legacy of the Wizard (NES)<br>
+        </p>
+        <p><strong> June 2018 </strong><br>
+          Stardew Valley (PC) <br>
+          Emerald Dragon (SNES) <br>
+          Dark Half (SNES) <br>
+          Marvelous (SNES)) <br>
+        </p>
+        <p><strong> May 2018 </strong><br>
+          Dark Law: Meaning of Death (SNES)<br>
+          Beat Saber (Vive)<br>
+          Gorn (Vive)<br>
+          Dual Orb 2 (SNES)<br>
+        </p>
+        <p><strong> Apr 2018 </strong><br>
+          Star Ocean (SNES)<br>
+          Ghost of a Tale (PC)<br>
+        </p>
+        <p><strong> Mar 2018 </strong><br>
+          Ni No Kuni 2 (PS4)<br>
+          A Way Out (PS4)<br>
+        </p>
+        <p><strong> Feb 2018 </strong><br>
+          Shadow of the Colossus (PS4)<br>
+          Secret of Mana (PS4)<br>
+          Sword Craft Story 2 (cont) (DS)<br>
+          Geneforge 2 (PC)<br>
+          Monster Hunter World (PS4)<br>
+        </p>
+        <p><strong> Jan 2018 </strong><br>
+          Atelier Sophie (PS4)<br>
+        </p>
+        <p><strong> Favorite of 2017 </strong><br>
+          Ys 8<br>
+        </p>
+        <p><strong> Dec 2017 </strong><br>
+          Salt and Sanctuary<br>
+          Dragon Quest Builders<br>
+        </p>
+        <p><strong> Nov 2017 </strong><br>
+          Horizon Zero Dawn (PS4)<br>
+          Disgaea 5 (PS4)<br>
+          Divinity Original Sin 2(PC)<br>
+        </p>
+        <p><strong> Oct 2017 </strong><br>
+          Lennus 2 (SNES)<br>
+          Paladin's Quest (SNES)<br>
+          Battle Chasers (PS4)<br>
+          Ys 8 (PS4)<br>
+          Rocket League (PC)<br>
+          Yonder (PS4) <br>
+        </p>
+        <p><strong> Sept 2017 </strong><br>
+          Final Fantasy 15 (PS4)<br>
+          Dark Souls 3 (PS4)<br>
+          Odin Sphere Leifthrasir (PS4)<br>
+          Arcana (SNES)<br>
+          Star Ocean I&amp;F (PS4)<br>
+          Bloodborne (PS4) <br>
+        </p>
+        <p><strong> Aug 2017 </strong><br>
+          Aztez (PC) <br>
+          Night in the Woods (PC) <br>
+          Dark Souls 2 Scholar of the First Sin (PS3) <br>
+          Secret of the Stars (SNES) <br>
+        </p>
+        <p><strong> July 2017 </strong><br>
+          Shadow of Mordor (PS3)<br>
+          Portal Stories VR (PC)<br>
+          VR Retreat (PC)<br>
+          Derail Valley (PC)<br>
+          Golf Club VR (PC)<br>
+          SuperHot VR (PC)<br>
+        </p>
+        <p><strong> June 2017 </strong><br>
+          Dragon View (SNES)<br>
+          Atelier Escha and Logy (PS3)<br>
+        </p>
+        <p><strong> May 2017 </strong><br>
+          Atelier Ayesha (PS3)<br>
+          Atelier Shallie (PS3)<br>
+        </p>
+        <p><strong> Apr 2017 </strong><br>
+          Persona 5 (PS3)<br>
+          Castlevania Rondo of Blood (TG16)<br>
+          Kirby 64 (N64)<br>
+          Castlevania 64 (N64)<br>
+        </p>
+        <p><strong> Mar 2017 </strong><br>
+          Zelda Breath of the Wild (WiiU)<br>
+        </p>
+        <p><strong> Feb 2017 </strong><br>
+          Secret of Mana (SNES)<br>
+          Minecraft (PC)<br>
+          Guild Wars 2 (PC)<br>
+          PSO Blue Burst (PC)<br>
+          Milons Secret Castle (NES)<br>
+          Bubble Bobble (NES)</p>
+        <p><strong> Jan 2017 </strong><br>
+          Zelda Majora's Mask (N64) <br>
+          Feda Emblem of Justice (SNES)<br>
+          Bust a Move 4 (Arc)<br>
+          Kirby's Avalanche (SNES)<br>
+          Zelda Link to the Past (SNES)<br>
+          Super Metroid (SNES)<br>
+          Ark (PC) </p>
+        <p><strong> Favorite of 2016 </strong><br>
+          Grandia (PS1)<br>
+        </p>
+        <p><strong> Xmas Game 2016 </strong><br>
+          <em>None :(</em> </p>
+        <p><strong> Dec 2016 </strong><br>
+          Xenogears (PS1)<br>
+          Daggerfall (PC)<br>
+          Descent to Undermountain (PC)<br>
+        </p>
+        <p><strong> Nov 2016 </strong><br>
+          CrossCode (PC)<br>
+          <strong><br>
+            Oct 2016 </strong><br>
+          The Night Cafe (Vive)<br>
+          Waltz of the Wizard (Vive)<br>
+          The Lab (Vive)<br>
+          Vanishing Realms (Vive)<br>
+          Acan's Call (Vive)<br>
+          Rimworld (PC)<strong><br>
+          </strong>Katamari Forever (PS3)<strong><br>
             <br>
-            <strong>Mar 2016<br>
-            </strong>Resident Evil 5 (YouTube)<br>
-            Breath of Fire 3 (PS1)<br>
-            Dark Seed (YouTube)<br>
-            Undertale (PC)<strong><br>
-              <br>
-              Feb 2016<br>
-            </strong>Breath of Fire (SNES)<br>
-            Street Fighter V (PC) </p>
-          <p><strong> Jan 2016 <br>
-            </strong>Yakuza 5 (PS3)</p>
-          <p><strong> Favorite of 2015<br>
-            </strong>Witcher 3</p>
-          <p><strong> Xmas Game 2015<br>
-            </strong>Xenoblade X (WiiU)<strong><br>
-              <br>
-              <br>
-              Dec 2015<br>
-            </strong>Just Cause 3 (PC)<strong><br>
-            </strong>Rings of Power (Genesis)<strong><br>
-            </strong><strong><br>
-              Nov 2015<br>
-            </strong>Tales of Zestiria (PS3)<br>
-            Witcher 3 Hearts of Stone (PC)<strong> <br>
-              <br>
-              Sept 2015<br>
-            </strong>Ultima Underworld (PC)<br>
-            Final Fantasy 9 (PS1)</p>
-          <p><strong>Aug 2015</strong><br>
-            Grim Fandango (PC)<br>
-            Codename Outbreak (PC)<br>
-            Outcast (PC)<br>
-            Star Ocean 2 (PS1)</p>
-          <p><strong>Jul 2015</strong><br>
-            The Witcher 3 (cont) (PC)<strong><br>
-            </strong>Chrono Cross (PS1)</p>
-          <p><strong>Jun 2015</strong><br>
-            The Witcher 3 (cont) (PC)<strong><br>
-            </strong><strong><br>
-              May 2015</strong><br>
-            The Witcher 3 (PC)<br>
-            Kerbal Space Program (PC)<br>
-            Castlevania Lords of Shadow 2 (PC)</p>
-          <p><strong>Apr 2015</strong><br>
-            Wolfenstein New Order (PC)<br>
-            Dawn of Mana (Youtube)<br>
-            Final Fantasy Lightning Returns (Youtube)<br>
-            Final Fantasy 13-2 (Youtube)<br>
-            Pillars of Eternity (PC)<br>
-            Xenosaga 3 (Youtube)<br>
-            Xenosaga 2 (Youtube)<br>
-            Xenosaga (Youtube)</p>
-          <p><strong>Mar 2015</strong><br>
-            The Order 1886 (Youtube)<br>
-            Metal Gear Solid 4 (Youtube)<br>
-            Metal Gear Solid 3 (Youtube)<br>
-            Metal Gear Solid 2 (Youtube)<br>
-            Metal Gear Solid (Youtube)<br>
-            Cities Skylines (PC)<br>
-            Ogre Battle (SNES)</p>
-          <p><strong>Feb 2015</strong><br>
-            FallOut New Vegas (PC)<br>
-            Dragon Age 3 (PC)</p>
-          <p><strong>Jan 2015</strong><br>
-            Silva Saga 2 (SNES)<br>
-            Earthbound (SNES)<br>
-            Elite: Dangerous (PC)</p>
-          <p><br>
-            <strong>XMas Game 2014</strong><br>
-            Jade Empire (PC)</p>
-          <p><strong>Dec 2014</strong><br>
-            Might and Magic X (PC)<br>
-            Dragon Age 2 (PC)<br>
-            PixelJunk Shooter (PC)<br>
-            Far Cry 4 (PC)</p>
-          <p><strong>Nov 2014</strong><br>
-            Call of Duty Advanced Warfare (PC)<br>
-            Super Time Force (PC)<br>
-            7th Saga (SNES)<br>
-            Starforge (PC)<br>
-            Legend of Grimrock 2 (PC)</p>
-          <p><strong>Oct 2014</strong><br>
-            Shadowrun Returns (PC)<br>
-            Future Shock (PC)<br>
-            Dragon Quest 6 (SNES)</p>
-          <p><strong>Sept 2014</strong><br>
-            Banished (PC)<br>
-            Live A Live (SNES)</p>
-          <p><strong>Aug 2014</strong><br>
-            Gothic 3 Forsaken Gods (PC)<br>
-            Treasure Hunter G (SNES)</p>
-          <p><strong>July 2014</strong><br>
-            Divinity Original Sin (PC)<br>
-            Lords of Midnight (PC)<br>
-            Breath of Fire 2 (SNES)<br>
-            Drakkhen (SNES)<br>
-            Uncharted Waters (SNES)<br>
-            Dragon Quest 5 (SNES)</p>
-          <p><strong>June 2014</strong><br>
-            Robotrek (SNES)<br>
-            Tobias and the Dark Sceptres (PC)<br>
-            Berserk: Millennium Falcon Arc (PS2)<br>
-            Strike Suit Zero (PC)<br>
-            Freespace 2 (PC)</p>
-          <p><strong>May 2014</strong><br>
-            Fury3 (PC)<br>
-            Counting Kingdom (PC)<br>
-            Terminal Velocity (PC)<br>
-            Sir, You Are Being Hunted (PC)</p>
-          <p><strong>Apr 2014</strong><br>
-            Brutal Doom 2 (PC)<br>
-            Brutal Doom (PC)<br>
-            Atelier Escha &amp; Logy (PS3)</p>
-          <p><strong>March 2014</strong><br>
-            South Park Stick of Truth (PC)<br>
-            Dark Souls 2 (PS3)<br>
-            Thief (PC)<br>
-            Valdis Story (PC)</p>
-          <p><strong>Feb 2014</strong><br>
-            Earth Defense Force 2025 (PS3)<br>
-            Hard Reset (PC)<br>
-            DmC (PS3)<br>
-            Outlast (PC)<br>
-            Icewind Dale (PC)<br>
-            Bioshock Infinite (PC)<br>
-            Blackguards (PC)<br>
-          </p>
-          <p><strong>Jan 2014</strong><br>
-            Ys 5 (SNES)<br>
-            MGR: Revengeance (PS3)<br>
-            Super Mario 3D World (WiiU)<br>
-            <strong>X-mas Game 2013-</strong><br>
-            Zelda: Twilight Princess (Wii)</p>
-          <p><strong>Dec 2013-</strong><br>
-            Fallout 2 (PC)<br>
-            Monster Hunter 3 (WiiU)<br>
-            Wind Waker HD (WiiU)<br>
-            White Knight Chronicles (PS3)<br>
-            Ys 7 (PSP)</p>
-          <p><strong>Nov 2013-</strong><br>
-            Assassins Creed 4 (PS3)<br>
-            Kerbal Space Program (PC)<br>
-            The Witcher 2 (PC)<br>
-            The Witcher (PC)</p>
-          <p><strong>Oct 2013-</strong><br>
-            Driftmoon (PC)<br>
-            Redguard (PC)<br>
-            Arx Fatalis (PC)<br>
-            Might &amp; Magic X pre-release (PC)<br>
-            Minecraft (PC)</p>
-          <p><strong>Sep 2013-</strong><br>
-            GTA V (PS3)<br>
-            Penumbra 2 (PC)<br>
-            Penumbra (PC)<br>
-            Miasmata (PC)<br>
-            Amnesia Machine for Pigs (PC)<br>
-            Waking Mars (PC)</p>
-          <p><strong>Aug 2013-</strong><br>
-            Exposure (PC)<br>
-            Gone Home (PC)<br>
-            Shelter (PC)<br>
-            Tales of Xillia (PS3)<br>
-            Dragons Crown (PS3)<br>
-            Final Fantasy 13-2 (PS3)</p>
-          <p><strong>Jul 2013-</strong><br>
-            Final Fantasy 13 (PS3)<br>
-            Armored Core 5 (PS3)<br>
-            Genji (PS3)<br>
-            Metro Last Light (PC)</p>
-          <p><strong>Jun 2013-</strong><br>
-            The Last of Us (PS3)<br>
-            Fear Less (PC)<br>
-            Cannon Fodder (PC)<br>
-            Lost in Blue 3 (DS)<br>
-            Call of Juarez: Gunslinger (PS3)<br>
-            Wizards and Warriors (NES)</p>
-          <p><strong>May 2013-</strong><br>
-            Dust Elysian Tail (PC)<br>
-            FarCry 3 Blood Dragon (PC)<br>
-            Don't Starve (PC)<br>
-            Torchlight 2 (PC)<br>
-            Zeno Clash 2 (PC)<br>
-            Dragons Dogma: Dark Arisen (PS3)</p>
-          <p><strong>Apr 2013-</strong><br>
-            Pandoras Tower (Wii)<br>
-            Vampire the Masquerade Bloodlines (PC)<br>
-            The Precursors (PC)<br>
-            Signal Ops (PC)<br>
-            Darksiders 2 (PS3)</p>
-          <p><strong>Mar 2013-</strong><br>
-            Realms of Arkania (PC)<br>
-            I Am Alive (PS3)<br>
-            Sine Mora (PS3)</p>
-          <p><strong>Feb 2013-</strong><br>
-            Ni No Kuni (PS3)<br>
-            <strong><br>
-              Jan 2013-<br>
-            </strong>Proteus (PC)<br>
-            Unfinished Swan (PS3)<br>
-            Asuras Wrath (PS3)</p>
-          <p><br>
-            <strong>X-mas Game 2012-</strong><br>
-            Nier (PS3)<br>
-            Assassins Creed 3 (PS3)<br>
-            <strong><br>
-              Dec 2012-<br>
-            </strong>Metal Storm (NES)<br>
-            Jackal (NES)<br>
-            Little Samson (NES)<br>
-            Dragon Warrior (NES)<br>
-            Radia Senki (NES)<br>
-            Dragon Warrior 4 (NES)<br>
-            Far Cry 3 (PC)<br>
-            <strong><br>
-              Nov 2012-</strong><br>
-            LaMulana (PC)<br>
-            Dragon Warrior 3 (NES)<br>
-            Dragon Warrior 2 (NES)<br>
-            Persona 4 Arena (PS3)<br>
-            Evoke (PC)<br>
-            Shadowgate (NES)<br>
-            Driver San Francisco (PS3)<br>
-            River City Ransom (NES)<br>
-            Megaman Sprite Game (PC)<br>
-            King of Dragon Pass (PC)<br>
-            Blaster Master (NES)<br>
-            Metroid (NES)</p>
-          <p>Oct 2012-<br>
-            Incredipede (PC)<br>
-            Hotline Miami (PC)<br>
-            Final Fantasy 3 (NES)<br>
-            Dishonored (PC)<br>
-            XCom Enemy Unknown (PC)<br>
-            Final Fantasy (NES)<br>
-            Tokyo Jungle (PS3)<br>
-            <strong><br>
-              Sept 2012-<br>
-            </strong>Tales of Graces (PS3)<br>
-            Borderlands 2 (PC)<br>
-            FTL (PC)<br>
-            Zack and Wiki (Wii)<br>
-            Thirty Flights of Loving (PC) </p>
-          <p><strong>August 2012-</strong><br>
-            Hanten (PC)<br>
-            The Last Story (Wii)<br>
-            Way of the Samurai 4 (PS3)<br>
-            Dragons Dogma (PS3)</p>
-          <p><strong>July 2012-<br>
-            </strong>Valkyria Chronicles (PS3)<br>
-            Left 4 Dead 2 Cold Stream (PC)<br>
-            The Stanley Parable (PC)<br>
-            Slender (PC)<br>
-            Portal 2 (PC)<br>
-            Legend of Grimrock (PC)<br>
-            Geneforge (PC)<br>
-            Puzzle Quest (DS)</p>
-          <p><strong>June 2012-<br>
-            </strong>Rage (PC)<br>
-            Dig-N-Rig (PC)<br>
-            Foam (PC)<strong><br>
-            </strong>Modern Warfare 3 (PC)<br>
-            sugar, sugar2 (PC)<br>
-            <strong><br>
-              May 2012-<br>
-            </strong>Saints Row 3 (PC)<br>
-            Ys Origins (PC)<br>
-            Children of Mana (DS)<br>
-            Day Z (PC)<br>
-            Tail of the Sun (PS1)<br>
-            <strong><br>
-              Apr 2012-<br>
-            </strong>Mount and Blade Warband (PC)<br>
-            Uncharted 3 (PS3)<br>
-            Xenoblade (Wii)<br>
-            <strong><br>
-              Mar 2012-</strong><br>
-            Might and Magic 6 (PC)<br>
-            Phoenix Wright (DS)<br>
-            Mass Effect 3 (PC)<br>
-            Ghost Trick (DS)<br>
-            <strong><br>
-              Feb 2012-</strong><br>
-            Unmanned (PC)<br>
-            Ultima 7 Exult (PC)<br>
-            Hitman Blood Money (PC)<br>
-            Castlevania Order of Ecclesia (DS)<br>
-            Tales of Innocence (DS)<br>
-            <strong><br>
-              Jan 2012-<br>
-            </strong>Never Alone Hotline (PC)<br>
-            Cortex Command (PC)<br>
-            Abobos Big Adventure (PC)<br>
-            Katawa Shoujo (PC)<br>
-            Treasure Adventure Game (PC)</p>
-          <p><strong><br>
-              2011 Favorite -<br>
-            </strong>Dark Souls (PS3)<br>
+            Sept 2016</strong><br>
+          <em>None :(</em><strong><br>
             <br>
-            <strong>Dec 2011-<br>
-            </strong>William And Sly 2 (PC)<br>
-            Pokemon Black (DS)<br>
-            The Word Alone (PC)<br>
-            Crystalis (NES)<br>
-            Bionic Commando (NES)<br>
-            Faxanadu (NES)<br>
+            Aug 2016<br>
+          </strong> Tales of Eternia(PS1)<br>
+          Suikoden (PS1)</p>
+        <p><strong> July 2016 <br>
+          </strong> Fantastic Contraption (Vive)<br>
+          Kings Field 2 (PS1)<br>
+          Kings Field (PS1)<strong><br>
             <br>
-            <strong>Nov 2011-</strong><br>
-            Dead Island (PC)<br>
-            Serious Sam 3 (PC)<br>
-            Zelda-Skyward Sword (Wii)<br>
-            Skyrim (PC)<br>
-            Voxatron (PC)<br>
-            Binding of Isaac (PC)<br>
-            Saga 2-Hihou Densetsu (DS)<br>
+            June 2016<br>
+          </strong> Tomba (PS1)<br>
+          Threads of Fate (PS1)<br>
+          Front Mission 3 (PS1)<br>
+          Arc the Lad (PS1)<br>
+        </p>
+        <p><strong> May 2016</strong><br>
+          Grandia (PS1)<br>
+          <br>
+          <strong>Mar 2016<br>
+          </strong>Resident Evil 5 (YouTube)<br>
+          Breath of Fire 3 (PS1)<br>
+          Dark Seed (YouTube)<br>
+          Undertale (PC)<strong><br>
             <br>
-            <strong>Oct 2011-</strong><br>
-            Amnesia-Dark Decent (PC)<br>
-            Metro 2033 (PC)<br>
-            Gears of War 3 (360)<br>
-            Dark Souls (PS3)<br>
-            From Dust (PS3)<br>
-            Star Ocean 4 (360)<br>
-            <strong><br>
-              Sept 2011-<br>
-            </strong>Crystal Chronicles Ring of Fates (DS)<br>
-            Shadow of the Colossus HD (PS3)<br>
-            Two Worlds 2 (PC)<br>
-            Dead Space 2 (PC)<br>
-            Dead Space (PC)<br>
-            Deus Ex 3 Human Revolution (PC)<br>
-            <strong><br>
-              August 2011-<br>
-            </strong>Blue Dragon (360)<br>
-            Opoona (Wii)<br>
-            Spectrobes (Wii)<br>
-            <strong><br>
-              July 2011-</strong><br>
-            Bastion (360)<br>
-            Braid (360)<br>
-            EDF:Insect Armageddon (360)</p>
-          <p><strong>June 2011-<br>
-            </strong>Ninety Nine Nights 2 (360)<br>
-            Arc Rise Fantasia (Wii)<br>
-            Rune Factory Frontier (Wii)<br>
-            Sky Crawlers (Wii)</p>
-          <p><strong>May 2011-</strong><br>
-            MindJack (360)<br>
-            Dead Rising 2 (PS3)<br>
-            Castlevania Lords of Shadow (PS3)<br>
-            Atelier Rorona (PS3)<br>
-            Sword &amp; Sworcery (iOS)<br>
-            Clash of Heroes (PS3)<br>
-            Vanquish (PS3)</p>
-          <p><strong>April 2011-<br>
-            </strong>Yakuza 4 (PS3)<br>
-            Dungeon Hunter Alliance (PS3)<br>
-            Enslaved (PS3)</p>
-          <p><strong>March 2011-<br>
-            </strong>Hard Corps Uprising (PS3)<br>
-            NEStalgia (PC)<br>
-            Radiant Historia (DS)<br>
-            <strong><br>
-              February 2011-<br>
-            </strong>Crysis 2 (PC)<br>
-            Afrika (korean) (PS3)<br>
-            <strong><br>
-              January 2011-<br>
-            </strong>Super Scribblenauts (DS)</p>
-          <p><br>
-            <strong>Favorite of 2010-<br>
-            </strong>Just Cause 2</p>
-          <p><strong>Xmas Game 2010-<br>
-            </strong>Minecraft Beta (PC)</p>
-          <p><strong>Dec 2010 -</strong><br>
-            Zelda: Majoras Mask (N64)<br>
-            Gran Turismo 5 (PS3)<br>
-            Two Worlds II (PC)<br>
-            <strong><br>
-              Nov 2010 -<br>
-            </strong>Asherons Call (PC)</p>
-          <p><strong>Oct 2010 -<br>
-            </strong>Kirby's Epic Yarn (Wii)<br>
-            Mass Effect 2 (PC)<br>
-            <strong><br>
-              Sept 2010 -</strong><br>
-            Stalker-Call of Pripyat REDUX (PC)<br>
-            Minecraft (PC)</p>
-          <p><strong>August 2010 -</strong><br>
-            Swordcraft Story 2 (DS)<br>
-            Swordcraft Story (DS)<br>
-            Scott Pilgrim (PS3)</p>
-          <p><strong>July 2010 -<br>
-            </strong>Dragon Quest 9 (DS)<br>
-            Lego Harry Potter (PS3)<br>
-            Uncharted (PS3)<br>
-            Heavy Rain (PS3)</p>
-          <p><strong>June 2010 -</strong><br>
-            Sakura Wars-So Long My Love (PS2)<br>
-            Fable 2 (360)</p>
-          <p><strong>May 2010 -</strong><br>
-            Echelon Book 2 (PC)<br>
-            Yakuza 3 (PS3)<br>
-            Super Mario Galaxy 2 (Wii)<br>
-            Red Dead Redemption (PS3)<br>
-            3D Dot Heroes (PS3)<br>
-            Fragile Dreams (Wii)<br>
-            <strong><br>
-              April 2010 -</strong><br>
-            Monster Hunter 3 (Wii)<br>
-            Final Fantasy XIII (PS3)<br>
-            Uncharted 2 (PS3)</p>
-          <p><strong>March 2010 -</strong><br>
-            Just Cause 2 (PS3)<br>
-            Cave Story (Wii)<br>
-            God of War 3 (PS3)<br>
-            Stalker: Call of Pripyat (PC)<br>
-            <strong><br>
-              February 2010 -</strong><br>
-            Yakuza 2 (PS2)<br>
-            Mass Effect (PC)<br>
-            White Knight Chronicles (PS3)<br>
-            MAG (PS3)<br>
-            Blaster Master Overdrive (Wii)<br>
-            <strong><br>
-              January 2010 -</strong><br>
-            Darksiders (360)<br>
-            Crystal Chronicles: Crystal Bearers (Wii)<br>
-            Might and Magic Clash of Heroes (DS)<br>
-            Infinite Undiscovery (360)<br>
-            Divinity 2 (PC)<br>
-            Castlevania Rebirth (Wii)<br>
-            <br>
-          </p>
-          <p><strong>Favorite of 2009-<br>
-            </strong>Batman Arkham Asylum)</p>
-          <p><strong>X-mas Game(s) 2009-<br>
-            </strong>Assassins Creed II (360)<br>
-            Dragon Age (PC) </p>
-          <p><strong>December 2009 -</strong><br>
-            Pacific Liberator (Wii)<br>
-            Lord of the Rings Online: Mirkwood (PC)<br>
-            God of War Collection (PS3)</p>
-          <p><strong>November 2009 -<br>
-            </strong>New Super Mario Bros. (Wii)<br>
-            Left 4 Dead 2 (PC)<br>
-            Modern Warfare 2 (PC)<br>
-            Gratuitous Space Battles (PC)<br>
-            Hammerfight (PC)<br>
-            Borderlands (PC)<br>
-            Nostalgia (DS)</p>
-          <p><strong>October </strong><strong>2009 -</strong><br>
-            Demons Souls US (PS3)<br>
-            Risen (PC)<br>
-            Dragonica (PC)<br>
-            Batman Arkham Asylum (PS3)</p>
-          <p><strong>September 2009 -</strong><br>
-            Shadow Complex (360)<br>
-            Ultimate Alliance 2 (360)<br>
-            Mini Ninjas (PS3)<br>
-            Scribblenauts (DS)<br>
-            Muramasa (Wii)<br>
-            Street Fighter 4 (PS3)<br>
-            Dungeon Magic (NES)<br>
-            Faxanadu (NES)</p>
-          <p><strong>August 2009 -</strong><br>
-            Little Kings Story (Wii)<br>
-            Red Faction Guerrilla (360)<br>
-            Zelda 2 (NES)</p>
-          <p><strong>July 2009 -<br>
-            </strong>Wii Sports Resort (Wii)<br>
-            Klonoa (Wii)</p>
-          <p><strong>June 2009 -</strong><br>
-            Bionic Commando (PS3)<br>
-            Powder (DS)<br>
-            Minecraft (PC)</p>
-          <p><strong>May 2009 -</strong><br>
-            ZenoClash (PC)<br>
-            FarCry 2 (PC)<br>
-            Castle Crashers (360)</p>
-          <p><strong>April 2009 -</strong><br>
-            Left 4 Dead Survival Mode (PC)<br>
-            Suikoden Tierkreis (DS)<br>
-            Lost Oddysee (360)<br>
-            Valkyria Chronicles (PS3)</p>
-          <p><strong>March 2009 -<br>
-            </strong>Demons Souls (PS3)<br>
-            Aquanaughts Holiday (PS3)<br>
-            Lost Oddysee (360)<br>
-            The Witcher (PC)<br>
-            Saints Row 2 Co-op (PC)<br>
-            Doom 3 Co-op (PC)</p>
-          <p><strong>February 2009 -<br>
-            </strong>Noby Noby Boy (PS3)<br>
-            Flower (PS3)<br>
-            Saints Row 2 (360)<br>
-            Folklore (PS3)<br>
-            LittleBigPlanet (PS3)<br>
-            Echochrome (Ps3)<br>
-            Gears of War 2 (360)<br>
-            <strong><br>
-              January 2009 -<br>
-            </strong>Star Ocean 3 (Ps2)<br>
-            Fallout 3 (PC)<br>
-            Okami (PS2)<br>
-            Persona (PS1)</p>
-          <p><br>
-            <strong>Favorite of 2008-</strong><br>
-            Persona 4 </p>
-          <p><strong>X-mas Game 2008 -<br>
-            </strong>Persona 4 (PS2)<br>
-            <br>
-            <strong>December 2008 -<br>
-            </strong>Fallout 3 (PC)<br>
-            Tales of Symphonia 2 (Wii)<br>
-            Sims Kingdom (Wii)<br>
-            <strong><br>
-              November 2008 -<br>
-            </strong>Iji (PC)<br>
-            Left 4 Dead (PC)<br>
-            Sacrifice (PC)<br>
-            Tales of Vesperia (360)<br>
-            Force Unleashed (360)<br>
-            Fable 2 (360)</p>
-          <p><strong>October 2008 -<br>
-            </strong>Mount and Blade (PC)<br>
-            Atmosphir (PC)<br>
-            Vampire The Masquerade-Bloodlines (PC)<strong><br>
-            </strong>Neverwinter Nights 2 (PC)<strong>.</strong></p>
-          <p><strong>September 2008 -<br>
-            </strong>Crysis Warhead (PC)<br>
-            Stalker Clear Sky (PC)<br>
-            Lord of the Rings Online (PC)<br>
-            Spore (PC)<br>
-            Wizardry 8 (PC)<br>
-            Wizards and Warriors (PC)<br>
-            Far Cry (PC)<br>
-            <strong><br>
-              August 2008 -</strong><br>
-            Chronicles of Riddick (PC)<br>
-            Quake 2 Mission Pack 2 (PC)<br>
-            Quake 2 Mission Pack 1 (PC)<br>
-            Quake 2 (PC)<br>
-            Quake Mission Pack 2 (PC)<br>
-            Quake Mission Pack 1 (PC)<br>
-            Quake (PC)</p>
-          <p><strong>July 2008 -</strong><br>
-            Gothic 3 (PC)<br>
-            Armed and Dangerous (PC)<br>
-            Civilization 4 (PC)<strong><br>
-            </strong>Odin Sphere (PS2)<br>
-            Phoenix Wright (DS)<br>
-            Dragon Warrior 2 (NES)<br>
-            Boom Blox (Wii)</p>
-          <p><strong>June 2008 -<br>
-            </strong>Elder Scrolls Arena (DOS)<br>
-            Thief 3 (PC)<br>
-            Deus Ex 2 (PC)<br>
-            Deus Ex (PC)<br>
-            Serious Sam 2 (PC)<br>
-            Carmageddon 2 (PC)<br>
-            Magic Carpet (DOS)</p>
-          <p><strong>May 2008 -<br>
-            </strong>Painkiller Battle out of Hell (PC)<br>
-            Painkiller (PC)<br>
-            Final Fantasy VI Retranslation (SNES)<br>
-            Bumpy Trot (PS2)<strong><br>
-            </strong>Sapphire (PC Engine)<br>
-            My Life As A King (Wii)<br>
-            LostWinds (Wii)<br>
-            Tales of Rebirth (PS2)</p>
-          <p><strong>April 2008-<br>
-            </strong>GTA IV (360)<br>
-            Tales of Legendia (PS2)<strong><br>
-            </strong>Radiata Stories (PS2)<br>
-            Tales of the Abyss (PS2)<br>
-            Valkyrie Profile 2 (PS2)<br>
-            Baroque (PS2)<br>
-            GTA Vice City (PC)<br>
-            Gish (PC)<strong><br>
-            </strong>Kirby's Adventure (NES)<br>
-            Castlevania Curse of Darkness (PS2)<br>
-            Castlevania Bloodlines (Genesis)<br>
-            Yakuza (PS2)<strong><br>
-            </strong>System Shock 2 (PC)</p>
-          <p><strong>Mar 2008-<br>
-            </strong>Fallout (PC)<br>
-            Stalker (PC)<br>
-            Two Worlds (PC)<br>
-            Half Life 2 Episode One (PC)<br>
-            Call of Duty 4 (PC)</p>
-          <p><strong>Feb 2008-<br>
-            </strong>Crysis (PC)<br>
-            Flight Simulator X (PC)<br>
-            X3 (PC)<br>
-            Kid Icarus (NES)<br>
-            Dragon Quest Swords (Wii)</p>
-          <p><strong>Jan 2008-</strong><br>
-            Ys IV Dawn of Ys (PC Engine)<br>
-            Ys Oath in Felghana (PC)<br>
-            Endless Ocean (Wii)<br>
-            Fire Emblem Radiant Dawn (Wii)</p>
-          <p><br>
-            <strong>Xmas Game 2007 -<br>
-            </strong>Fire Emblem Path of Radiance (GC)</p>
-          <p><strong>Dec 2007-</strong><br>
-            Mario Galaxy (Wii)<br>
-            Stalker (PC)<br>
-            Assassin's Creed (360)</p>
-          <p><strong>November 2007 -</strong><br>
-            Mass Effect (360)<br>
-            Persona 3 (PS2)<br>
-            Sword of the New World (PC)<br>
-            Unreal Tournament 3 (PC)</p>
-          <p><br>
-            <strong>X-mas Game 2006 -<br>
-            </strong>Wii Sports (Wii) <br>
+            Feb 2016<br>
+          </strong>Breath of Fire (SNES)<br>
+          Street Fighter V (PC) </p>
+        <p><strong> Jan 2016 <br>
+          </strong>Yakuza 5 (PS3)</p>
+        <p><strong> Favorite of 2015<br>
+          </strong>Witcher 3</p>
+        <p><strong> Xmas Game 2015<br>
+          </strong>Xenoblade X (WiiU)<strong><br>
             <br>
             <br>
-            <strong>X-mas Game 2005 - </strong><br>
-            Phantasy Star (SMS)<br>
+            Dec 2015<br>
+          </strong>Just Cause 3 (PC)<strong><br>
+          </strong>Rings of Power (Genesis)<strong><br>
+          </strong><strong><br>
+            Nov 2015<br>
+          </strong>Tales of Zestiria (PS3)<br>
+          Witcher 3 Hearts of Stone (PC)<strong> <br>
             <br>
-            <br>
-            <strong>X-mas Game 2002 - </strong><br>
-            Tony Hawks Pro Skater (GC) <br>
-            <br>
-            <br>
-            <strong>X-mas Game 2001 - </strong><br>
-            Wild Metal Country (DC)<br>
-            <br>
-            <br>
-            <strong>X-mas Game 2000 -</strong><br>
-            Skies of Arcadia (DC)<br>
-            Grandia 2 (DC)<br>
-            <br>
-            <br>
-            <strong>X-mas Game 1997 -<br>
-            </strong>None!<strong><br>
-            </strong></p>
-          <p><strong>X-mas Game 1996 -</strong><br>
-            Legacy of Kain (PS1)<br>
-            Suikoden (PS1)</p>
-        </div>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
+            Sept 2015<br>
+          </strong>Ultima Underworld (PC)<br>
+          Final Fantasy 9 (PS1)</p>
+        <p><strong>Aug 2015</strong><br>
+          Grim Fandango (PC)<br>
+          Codename Outbreak (PC)<br>
+          Outcast (PC)<br>
+          Star Ocean 2 (PS1)</p>
+        <p><strong>Jul 2015</strong><br>
+          The Witcher 3 (cont) (PC)<strong><br>
+          </strong>Chrono Cross (PS1)</p>
+        <p><strong>Jun 2015</strong><br>
+          The Witcher 3 (cont) (PC)<strong><br>
+          </strong><strong><br>
+            May 2015</strong><br>
+          The Witcher 3 (PC)<br>
+          Kerbal Space Program (PC)<br>
+          Castlevania Lords of Shadow 2 (PC)</p>
+        <p><strong>Apr 2015</strong><br>
+          Wolfenstein New Order (PC)<br>
+          Dawn of Mana (Youtube)<br>
+          Final Fantasy Lightning Returns (Youtube)<br>
+          Final Fantasy 13-2 (Youtube)<br>
+          Pillars of Eternity (PC)<br>
+          Xenosaga 3 (Youtube)<br>
+          Xenosaga 2 (Youtube)<br>
+          Xenosaga (Youtube)</p>
+        <p><strong>Mar 2015</strong><br>
+          The Order 1886 (Youtube)<br>
+          Metal Gear Solid 4 (Youtube)<br>
+          Metal Gear Solid 3 (Youtube)<br>
+          Metal Gear Solid 2 (Youtube)<br>
+          Metal Gear Solid (Youtube)<br>
+          Cities Skylines (PC)<br>
+          Ogre Battle (SNES)</p>
+        <p><strong>Feb 2015</strong><br>
+          FallOut New Vegas (PC)<br>
+          Dragon Age 3 (PC)</p>
+        <p><strong>Jan 2015</strong><br>
+          Silva Saga 2 (SNES)<br>
+          Earthbound (SNES)<br>
+          Elite: Dangerous (PC)</p>
+        <p><br>
+          <strong>XMas Game 2014</strong><br>
+          Jade Empire (PC)</p>
+        <p><strong>Dec 2014</strong><br>
+          Might and Magic X (PC)<br>
+          Dragon Age 2 (PC)<br>
+          PixelJunk Shooter (PC)<br>
+          Far Cry 4 (PC)</p>
+        <p><strong>Nov 2014</strong><br>
+          Call of Duty Advanced Warfare (PC)<br>
+          Super Time Force (PC)<br>
+          7th Saga (SNES)<br>
+          Starforge (PC)<br>
+          Legend of Grimrock 2 (PC)</p>
+        <p><strong>Oct 2014</strong><br>
+          Shadowrun Returns (PC)<br>
+          Future Shock (PC)<br>
+          Dragon Quest 6 (SNES)</p>
+        <p><strong>Sept 2014</strong><br>
+          Banished (PC)<br>
+          Live A Live (SNES)</p>
+        <p><strong>Aug 2014</strong><br>
+          Gothic 3 Forsaken Gods (PC)<br>
+          Treasure Hunter G (SNES)</p>
+        <p><strong>July 2014</strong><br>
+          Divinity Original Sin (PC)<br>
+          Lords of Midnight (PC)<br>
+          Breath of Fire 2 (SNES)<br>
+          Drakkhen (SNES)<br>
+          Uncharted Waters (SNES)<br>
+          Dragon Quest 5 (SNES)</p>
+        <p><strong>June 2014</strong><br>
+          Robotrek (SNES)<br>
+          Tobias and the Dark Sceptres (PC)<br>
+          Berserk: Millennium Falcon Arc (PS2)<br>
+          Strike Suit Zero (PC)<br>
+          Freespace 2 (PC)</p>
+        <p><strong>May 2014</strong><br>
+          Fury3 (PC)<br>
+          Counting Kingdom (PC)<br>
+          Terminal Velocity (PC)<br>
+          Sir, You Are Being Hunted (PC)</p>
+        <p><strong>Apr 2014</strong><br>
+          Brutal Doom 2 (PC)<br>
+          Brutal Doom (PC)<br>
+          Atelier Escha &amp; Logy (PS3)</p>
+        <p><strong>March 2014</strong><br>
+          South Park Stick of Truth (PC)<br>
+          Dark Souls 2 (PS3)<br>
+          Thief (PC)<br>
+          Valdis Story (PC)</p>
+        <p><strong>Feb 2014</strong><br>
+          Earth Defense Force 2025 (PS3)<br>
+          Hard Reset (PC)<br>
+          DmC (PS3)<br>
+          Outlast (PC)<br>
+          Icewind Dale (PC)<br>
+          Bioshock Infinite (PC)<br>
+          Blackguards (PC)<br>
+        </p>
+        <p><strong>Jan 2014</strong><br>
+          Ys 5 (SNES)<br>
+          MGR: Revengeance (PS3)<br>
+          Super Mario 3D World (WiiU)<br>
+          <strong>X-mas Game 2013-</strong><br>
+          Zelda: Twilight Princess (Wii)</p>
+        <p><strong>Dec 2013-</strong><br>
+          Fallout 2 (PC)<br>
+          Monster Hunter 3 (WiiU)<br>
+          Wind Waker HD (WiiU)<br>
+          White Knight Chronicles (PS3)<br>
+          Ys 7 (PSP)</p>
+        <p><strong>Nov 2013-</strong><br>
+          Assassins Creed 4 (PS3)<br>
+          Kerbal Space Program (PC)<br>
+          The Witcher 2 (PC)<br>
+          The Witcher (PC)</p>
+        <p><strong>Oct 2013-</strong><br>
+          Driftmoon (PC)<br>
+          Redguard (PC)<br>
+          Arx Fatalis (PC)<br>
+          Might &amp; Magic X pre-release (PC)<br>
+          Minecraft (PC)</p>
+        <p><strong>Sep 2013-</strong><br>
+          GTA V (PS3)<br>
+          Penumbra 2 (PC)<br>
+          Penumbra (PC)<br>
+          Miasmata (PC)<br>
+          Amnesia Machine for Pigs (PC)<br>
+          Waking Mars (PC)</p>
+        <p><strong>Aug 2013-</strong><br>
+          Exposure (PC)<br>
+          Gone Home (PC)<br>
+          Shelter (PC)<br>
+          Tales of Xillia (PS3)<br>
+          Dragons Crown (PS3)<br>
+          Final Fantasy 13-2 (PS3)</p>
+        <p><strong>Jul 2013-</strong><br>
+          Final Fantasy 13 (PS3)<br>
+          Armored Core 5 (PS3)<br>
+          Genji (PS3)<br>
+          Metro Last Light (PC)</p>
+        <p><strong>Jun 2013-</strong><br>
+          The Last of Us (PS3)<br>
+          Fear Less (PC)<br>
+          Cannon Fodder (PC)<br>
+          Lost in Blue 3 (DS)<br>
+          Call of Juarez: Gunslinger (PS3)<br>
+          Wizards and Warriors (NES)</p>
+        <p><strong>May 2013-</strong><br>
+          Dust Elysian Tail (PC)<br>
+          FarCry 3 Blood Dragon (PC)<br>
+          Don't Starve (PC)<br>
+          Torchlight 2 (PC)<br>
+          Zeno Clash 2 (PC)<br>
+          Dragons Dogma: Dark Arisen (PS3)</p>
+        <p><strong>Apr 2013-</strong><br>
+          Pandoras Tower (Wii)<br>
+          Vampire the Masquerade Bloodlines (PC)<br>
+          The Precursors (PC)<br>
+          Signal Ops (PC)<br>
+          Darksiders 2 (PS3)</p>
+        <p><strong>Mar 2013-</strong><br>
+          Realms of Arkania (PC)<br>
+          I Am Alive (PS3)<br>
+          Sine Mora (PS3)</p>
+        <p><strong>Feb 2013-</strong><br>
+          Ni No Kuni (PS3)<br>
+          <strong><br>
+            Jan 2013-<br>
+          </strong>Proteus (PC)<br>
+          Unfinished Swan (PS3)<br>
+          Asuras Wrath (PS3)</p>
+        <p><br>
+          <strong>X-mas Game 2012-</strong><br>
+          Nier (PS3)<br>
+          Assassins Creed 3 (PS3)<br>
+          <strong><br>
+            Dec 2012-<br>
+          </strong>Metal Storm (NES)<br>
+          Jackal (NES)<br>
+          Little Samson (NES)<br>
+          Dragon Warrior (NES)<br>
+          Radia Senki (NES)<br>
+          Dragon Warrior 4 (NES)<br>
+          Far Cry 3 (PC)<br>
+          <strong><br>
+            Nov 2012-</strong><br>
+          LaMulana (PC)<br>
+          Dragon Warrior 3 (NES)<br>
+          Dragon Warrior 2 (NES)<br>
+          Persona 4 Arena (PS3)<br>
+          Evoke (PC)<br>
+          Shadowgate (NES)<br>
+          Driver San Francisco (PS3)<br>
+          River City Ransom (NES)<br>
+          Megaman Sprite Game (PC)<br>
+          King of Dragon Pass (PC)<br>
+          Blaster Master (NES)<br>
+          Metroid (NES)</p>
+        <p>Oct 2012-<br>
+          Incredipede (PC)<br>
+          Hotline Miami (PC)<br>
+          Final Fantasy 3 (NES)<br>
+          Dishonored (PC)<br>
+          XCom Enemy Unknown (PC)<br>
+          Final Fantasy (NES)<br>
+          Tokyo Jungle (PS3)<br>
+          <strong><br>
+            Sept 2012-<br>
+          </strong>Tales of Graces (PS3)<br>
+          Borderlands 2 (PC)<br>
+          FTL (PC)<br>
+          Zack and Wiki (Wii)<br>
+          Thirty Flights of Loving (PC) </p>
+        <p><strong>August 2012-</strong><br>
+          Hanten (PC)<br>
+          The Last Story (Wii)<br>
+          Way of the Samurai 4 (PS3)<br>
+          Dragons Dogma (PS3)</p>
+        <p><strong>July 2012-<br>
+          </strong>Valkyria Chronicles (PS3)<br>
+          Left 4 Dead 2 Cold Stream (PC)<br>
+          The Stanley Parable (PC)<br>
+          Slender (PC)<br>
+          Portal 2 (PC)<br>
+          Legend of Grimrock (PC)<br>
+          Geneforge (PC)<br>
+          Puzzle Quest (DS)</p>
+        <p><strong>June 2012-<br>
+          </strong>Rage (PC)<br>
+          Dig-N-Rig (PC)<br>
+          Foam (PC)<strong><br>
+          </strong>Modern Warfare 3 (PC)<br>
+          sugar, sugar2 (PC)<br>
+          <strong><br>
+            May 2012-<br>
+          </strong>Saints Row 3 (PC)<br>
+          Ys Origins (PC)<br>
+          Children of Mana (DS)<br>
+          Day Z (PC)<br>
+          Tail of the Sun (PS1)<br>
+          <strong><br>
+            Apr 2012-<br>
+          </strong>Mount and Blade Warband (PC)<br>
+          Uncharted 3 (PS3)<br>
+          Xenoblade (Wii)<br>
+          <strong><br>
+            Mar 2012-</strong><br>
+          Might and Magic 6 (PC)<br>
+          Phoenix Wright (DS)<br>
+          Mass Effect 3 (PC)<br>
+          Ghost Trick (DS)<br>
+          <strong><br>
+            Feb 2012-</strong><br>
+          Unmanned (PC)<br>
+          Ultima 7 Exult (PC)<br>
+          Hitman Blood Money (PC)<br>
+          Castlevania Order of Ecclesia (DS)<br>
+          Tales of Innocence (DS)<br>
+          <strong><br>
+            Jan 2012-<br>
+          </strong>Never Alone Hotline (PC)<br>
+          Cortex Command (PC)<br>
+          Abobos Big Adventure (PC)<br>
+          Katawa Shoujo (PC)<br>
+          Treasure Adventure Game (PC)</p>
+        <p><strong><br>
+            2011 Favorite -<br>
+          </strong>Dark Souls (PS3)<br>
+          <br>
+          <strong>Dec 2011-<br>
+          </strong>William And Sly 2 (PC)<br>
+          Pokemon Black (DS)<br>
+          The Word Alone (PC)<br>
+          Crystalis (NES)<br>
+          Bionic Commando (NES)<br>
+          Faxanadu (NES)<br>
+          <br>
+          <strong>Nov 2011-</strong><br>
+          Dead Island (PC)<br>
+          Serious Sam 3 (PC)<br>
+          Zelda-Skyward Sword (Wii)<br>
+          Skyrim (PC)<br>
+          Voxatron (PC)<br>
+          Binding of Isaac (PC)<br>
+          Saga 2-Hihou Densetsu (DS)<br>
+          <br>
+          <strong>Oct 2011-</strong><br>
+          Amnesia-Dark Decent (PC)<br>
+          Metro 2033 (PC)<br>
+          Gears of War 3 (360)<br>
+          Dark Souls (PS3)<br>
+          From Dust (PS3)<br>
+          Star Ocean 4 (360)<br>
+          <strong><br>
+            Sept 2011-<br>
+          </strong>Crystal Chronicles Ring of Fates (DS)<br>
+          Shadow of the Colossus HD (PS3)<br>
+          Two Worlds 2 (PC)<br>
+          Dead Space 2 (PC)<br>
+          Dead Space (PC)<br>
+          Deus Ex 3 Human Revolution (PC)<br>
+          <strong><br>
+            August 2011-<br>
+          </strong>Blue Dragon (360)<br>
+          Opoona (Wii)<br>
+          Spectrobes (Wii)<br>
+          <strong><br>
+            July 2011-</strong><br>
+          Bastion (360)<br>
+          Braid (360)<br>
+          EDF:Insect Armageddon (360)<br>
+          <br>
+        </p>
+        <p><strong>June 2011-<br>
+          </strong>Ninety Nine Nights 2 (360)<br>
+          Arc Rise Fantasia (Wii)<br>
+          Rune Factory Frontier (Wii)<br>
+          Sky Crawlers (Wii)</p>
+        <p><strong>May 2011-</strong><br>
+          MindJack (360)<br>
+          Dead Rising 2 (PS3)<br>
+          Castlevania Lords of Shadow (PS3)<br>
+          Atelier Rorona (PS3)<br>
+          Sword &amp; Sworcery (iOS)<br>
+          Clash of Heroes (PS3)<br>
+          Vanquish (PS3)</p>
+        <p><strong>April 2011-<br>
+          </strong>Yakuza 4 (PS3)<br>
+          Dungeon Hunter Alliance (PS3)<br>
+          Enslaved (PS3)</p>
+        <p><strong>March 2011-<br>
+          </strong>Hard Corps Uprising (PS3)<br>
+          NEStalgia (PC)<br>
+          Radiant Historia (DS)<br>
+          <strong><br>
+            February 2011-<br>
+          </strong>Crysis 2 (PC)<br>
+          Afrika (korean) (PS3)<br>
+          <strong><br>
+            January 2011-<br>
+          </strong>Super Scribblenauts (DS)</p>
+        <p><br>
+          <strong>Favorite of 2010-<br>
+          </strong>Just Cause 2</p>
+        <p><strong>Xmas Game 2010-<br>
+          </strong>Minecraft Beta (PC)</p>
+        <p><strong>Dec 2010 -</strong><br>
+          Zelda: Majoras Mask (N64)<br>
+          Gran Turismo 5 (PS3)<br>
+          Two Worlds II (PC)<br>
+          <strong><br>
+            Nov 2010 -<br>
+          </strong>Asherons Call (PC)</p>
+        <p><strong>Oct 2010 -<br>
+          </strong>Kirby's Epic Yarn (Wii)<br>
+          Mass Effect 2 (PC)<br>
+          <strong><br>
+            Sept 2010 -</strong><br>
+          Stalker-Call of Pripyat REDUX (PC)<br>
+          Minecraft (PC)</p>
+        <p><strong>August 2010 -</strong><br>
+          Swordcraft Story 2 (DS)<br>
+          Swordcraft Story (DS)<br>
+          Scott Pilgrim (PS3)</p>
+        <p><strong>July 2010 -<br>
+          </strong>Dragon Quest 9 (DS)<br>
+          Lego Harry Potter (PS3)<br>
+          Uncharted (PS3)<br>
+          Heavy Rain (PS3)</p>
+        <p><strong>June 2010 -</strong><br>
+          Sakura Wars-So Long My Love (PS2)<br>
+          Fable 2 (360)</p>
+        <p><strong>May 2010 -</strong><br>
+          Echelon Book 2 (PC)<br>
+          Yakuza 3 (PS3)<br>
+          Super Mario Galaxy 2 (Wii)<br>
+          Red Dead Redemption (PS3)<br>
+          3D Dot Heroes (PS3)<br>
+          Fragile Dreams (Wii)<br>
+          <strong><br>
+            April 2010 -</strong><br>
+          Monster Hunter 3 (Wii)<br>
+          Final Fantasy XIII (PS3)<br>
+          Uncharted 2 (PS3)</p>
+        <p><strong>March 2010 -</strong><br>
+          Just Cause 2 (PS3)<br>
+          Cave Story (Wii)<br>
+          God of War 3 (PS3)<br>
+          Stalker: Call of Pripyat (PC)<br>
+          <strong><br>
+            February 2010 -</strong><br>
+          Yakuza 2 (PS2)<br>
+          Mass Effect (PC)<br>
+          White Knight Chronicles (PS3)<br>
+          MAG (PS3)<br>
+          Blaster Master Overdrive (Wii)<br>
+          <strong><br>
+            January 2010 -</strong><br>
+          Darksiders (360)<br>
+          Crystal Chronicles: Crystal Bearers (Wii)<br>
+          Might and Magic Clash of Heroes (DS)<br>
+          Infinite Undiscovery (360)<br>
+          Divinity 2 (PC)<br>
+          Castlevania Rebirth (Wii)<br>
+          <br>
+        </p>
+        <p><strong>Favorite of 2009-<br>
+          </strong>Batman Arkham Asylum)</p>
+        <p><strong>X-mas Game(s) 2009-<br>
+          </strong>Assassins Creed II (360)<br>
+          Dragon Age (PC) </p>
+        <p><strong>December 2009 -</strong><br>
+          Pacific Liberator (Wii)<br>
+          Lord of the Rings Online: Mirkwood (PC)<br>
+          God of War Collection (PS3)</p>
+        <p><strong>November 2009 -<br>
+          </strong>New Super Mario Bros. (Wii)<br>
+          Left 4 Dead 2 (PC)<br>
+          Modern Warfare 2 (PC)<br>
+          Gratuitous Space Battles (PC)<br>
+          Hammerfight (PC)<br>
+          Borderlands (PC)<br>
+          Nostalgia (DS)</p>
+        <p><strong>October </strong><strong>2009 -</strong><br>
+          Demons Souls US (PS3)<br>
+          Risen (PC)<br>
+          Dragonica (PC)<br>
+          Batman Arkham Asylum (PS3)</p>
+        <p><strong>September 2009 -</strong><br>
+          Shadow Complex (360)<br>
+          Ultimate Alliance 2 (360)<br>
+          Mini Ninjas (PS3)<br>
+          Scribblenauts (DS)<br>
+          Muramasa (Wii)<br>
+          Street Fighter 4 (PS3)<br>
+          Dungeon Magic (NES)<br>
+          Faxanadu (NES)</p>
+        <p><strong>August 2009 -</strong><br>
+          Little Kings Story (Wii)<br>
+          Red Faction Guerrilla (360)<br>
+          Zelda 2 (NES)</p>
+        <p><strong>July 2009 -<br>
+          </strong>Wii Sports Resort (Wii)<br>
+          Klonoa (Wii)</p>
+        <p><strong>June 2009 -</strong><br>
+          Bionic Commando (PS3)<br>
+          Powder (DS)<br>
+          Minecraft (PC)</p>
+        <p><strong>May 2009 -</strong><br>
+          ZenoClash (PC)<br>
+          FarCry 2 (PC)<br>
+          Castle Crashers (360)</p>
+        <p><strong>April 2009 -</strong><br>
+          Left 4 Dead Survival Mode (PC)<br>
+          Suikoden Tierkreis (DS)<br>
+          Lost Oddysee (360)<br>
+          Valkyria Chronicles (PS3)</p>
+        <p><strong>March 2009 -<br>
+          </strong>Demons Souls (PS3)<br>
+          Aquanaughts Holiday (PS3)<br>
+          Lost Oddysee (360)<br>
+          The Witcher (PC)<br>
+          Saints Row 2 Co-op (PC)<br>
+          Doom 3 Co-op (PC)<br>
+          <br>
+          <strong>February 2009 -</strong><br>
+          Noby Noby Boy (PS3)<br>
+          Flower (PS3)<br>
+          Saints Row 2 (360)<br>
+          Folklore (PS3)<br>
+          LittleBigPlanet (PS3)<br>
+          Echochrome (Ps3)<br>
+          Gears of War 2 (360)<br>
+          <br>
+          <strong><br>
+            January 2009 -</strong><br>
+          Star Ocean 3 (Ps2)<br>
+          Fallout 3 (PC)<br>
+          Okami (PS2)<br>
+          Persona (PS1)<br>
+          <br>
+          <strong>Favorite of 2008-</strong><br>
+          Persona 4<br>
+          <br>
+        </p>
+        <p><strong>X-mas Game 2008 -</strong><br>
+          Persona 4 (PS2)<br>
+          <br>
+          <strong>December 2008 -</strong><br>
+          Fallout 3 (PC)<br>
+          Tales of Symphonia 2 (Wii)<br>
+          Sims Kingdom (Wii)<br>
+          <br>
+          <strong>November 2008 -</strong><br>
+          Iji (PC)<br>
+          Left 4 Dead (PC)<br>
+          Sacrifice (PC)<br>
+          Tales of Vesperia (360)<br>
+          Force Unleashed (360)<br>
+          Fable 2 (360)<br>
+          <br>
+          <strong>October 2008 -</strong><br>
+          Mount and Blade (PC)<br>
+          Atmosphir (PC)<br>
+          Vampire The Masquerade-Bloodlines (PC)<br>
+          Neverwinter Nights 2 (PC)<br>
+          <br>
+          <strong>September 2008 -</strong><br>
+          Crysis Warhead (PC)<br>
+          Stalker Clear Sky (PC)<br>
+          Lord of the Rings Online (PC)<br>
+          Spore (PC)<br>
+          Wizardry 8 (PC)<br>
+          Wizards and Warriors (PC)<br>
+          Far Cry (PC)<br>
+          <br>
+          <strong>August 2008 -</strong><br>
+          Chronicles of Riddick (PC)<br>
+          Quake 2 Mission Pack 2 (PC)<br>
+          Quake 2 Mission Pack 1 (PC)<br>
+          Quake 2 (PC)<br>
+          Quake Mission Pack 2 (PC)<br>
+          Quake Mission Pack 1 (PC)<br>
+          Quake (PC)<br>
+          <br>
+        </p>
+        <p><strong>July 2008 -</strong><br>
+          Gothic 3 (PC)<br>
+          Armed and Dangerous (PC)<br>
+          Civilization 4 (PC)<br>
+          Odin Sphere (PS2)<br>
+          Phoenix Wright (DS)<br>
+          Dragon Warrior 2 (NES)<br>
+          Boom Blox (Wii)<br>
+          <br>
+        </p>
+        <p><strong>June 2008 -</strong><br>
+          Elder Scrolls Arena (DOS)<br>
+          Thief 3 (PC)<br>
+          Deus Ex 2 (PC)<br>
+          Deus Ex (PC)<br>
+          Serious Sam 2 (PC)<br>
+          Carmageddon 2 (PC)<br>
+          Magic Carpet (DOS)<br>
+          <br>
+          <strong>May 2008 -</strong><br>
+          Painkiller Battle out of Hell (PC)<br>
+          Painkiller (PC)<br>
+          Final Fantasy VI Retranslation (SNES)<br>
+          Bumpy Trot (PS2)<br>
+          Sapphire (PC Engine)<br>
+          My Life As A King (Wii)<br>
+          LostWinds (Wii)<br>
+          Tales of Rebirth (PS2)<br>
+          <br>
+        </p>
+        <p><strong>April 2008-</strong><br>
+          GTA IV (360)<br>
+          Tales of Legendia (PS2)<br>
+          Radiata Stories (PS2)<br>
+          Tales of the Abyss (PS2)<br>
+          Valkyrie Profile 2 (PS2)<br>
+          Baroque (PS2)<br>
+          GTA Vice City (PC)<br>
+          Gish (PC)<br>
+          Kirby's Adventure (NES)<br>
+          Castlevania Curse of Darkness (PS2)<br>
+          Castlevania Bloodlines (Genesis)<br>
+          Yakuza (PS2)<br>
+          System Shock 2 (PC)<br>
+          <br>
+        </p>
+        <p><strong>Mar 2008-</strong><br>
+          Fallout (PC)<br>
+          Stalker (PC)<br>
+          Two Worlds (PC)<br>
+          Half Life 2 Episode One (PC)<br>
+          Call of Duty 4 (PC)<br>
+          <br>
+        </p>
+        <p><strong>Feb 2008-</strong><br>
+          Crysis (PC)<br>
+          Flight Simulator X (PC)<br>
+          X3 (PC)<br>
+          Kid Icarus (NES)<br>
+          Dragon Quest Swords (Wii)<br>
+          <br>
+        </p>
+        <p><strong>Jan 2008-</strong><br>
+          Ys IV Dawn of Ys (PC Engine)<br>
+          Ys Oath in Felghana (PC)<br>
+          Endless Ocean (Wii)<br>
+          Fire Emblem Radiant Dawn (Wii)<br>
+          <br>
+          <strong>Xmas Game 2007 -</strong><br>
+          Fire Emblem Path of Radiance (GC)</p>
+        <br>
+        <p><strong>Dec 2007-</strong><br>
+          Mario Galaxy (Wii)<br>
+          Stalker (PC)<br>
+          Assassin's Creed (360)<br>
+          <br>
+        </p>
+        <p><strong>November 2007 -</strong><br>
+          Mass Effect (360)<br>
+          Persona 3 (PS2)<br>
+          Sword of the New World (PC)<br>
+          Unreal Tournament 3 (PC)<br>
+          <br>
+          <strong>X-mas Game 2006 -</strong><br>
+          Wii Sports (Wii)<br>
+          <br>
+          <strong>Oct 2006 - </strong><br>
+          Secret of Mana (SNES)<br>
+          <br>
+          <strong>July 2006 - </strong><br>
+          Crystalis (NES)<br>
+          Yoshi's Island (SNES)<br>
+          Actraiser (SNES)<br>
+          Breath of Fire (SNES)<br>
+          <br>
+          <strong>June 2006 - </strong><br>
+          Crystalis (NES)<br>
+          Amagon (NES)<br>
+          Shatterhand (NES)<br>
+          Batman (NES)<br>
+          Astyanax (NES)<br>
+          Athena (NES)<br>
+          Arkista's Ring (NES)<br>
+          Faxanadu (NES)<br>
+          Conquest of the Crystal Palace (NES)<br>
+          <br>
+          <strong>X-mas Game 2005 - </strong><br>
+          Phantasy Star (SMS)<br>
+          <br>
+          <strong>Nov 2005</strong><br>
+          Final Fantasy 2 (NES)<br>
+          Ganbare Goemon 2 (SNES)<br>
+          Ganbare Goemon 3 (SNES)<br>
+          Contra 3 (SNES)<br>
+          Rudora no Hihou (SNES)<br>
+          Star Ocean (SNES)<br>
+          <br>
+          <strong>Sept 2005</strong><br>
+          Contra (NES)<br>
+          Super C (NES)<br>
+          Street Fighter 2010 (NES)<br>
+          <br>
+          <strong>July 2005</strong><br>
+          Mystical Ninja (SNES)<br>
+          <br>
+          <strong>May 2005</strong><br>
+          EVO (SNES)<br>
+          <br>
+          <strong>Apr 2005</strong><br>
+          Castlevania Dracula X (SNES)<br>
+          Dragonview (SNES)<br>
+          <br>
+          <strong>Mar 2005</strong><br>
+          Ys 3 (SNES)<br>
+          Ys 4 (SNES)<br>
+          Final Fantasy 4 Retranslation (SNES)
+          <br>
+          <strong>Xmas Game 2004</strong><br>
+          (Look it up)<br>
+          <br>
+          <strong>Apr 2004</strong><br>
+          Seiken Densetsu 3 (SNES)<br>
+          Soul Blazer (SNES)<br>
+          <br>
+          <strong>Apr 2004</strong><br>
+          Seiken Densetsu 3 (SNES)<br>
+          Soul Blazer (SNES)<br>
+          <br>
+          <strong>Xmas Game 2003</strong><br>
+          (Look it up)<br>
+          <br>
+          <strong>Nov 2003</strong><br>
+          Castlevania 4 (SNES)<br>
+          Megaman 7 (SNES)<br>
+          <br>
+          <strong>Feb 2003</strong><br>
+          Tales of Phantasia (SNES)<br>
+          Aquitallion (SNES)<br>
+          <br>
+          <strong>Jan 2003</strong><br>
+          Shadowrun (SNES)<br>
+          <br>
+          <strong>X-mas Game 2002 - </strong><br>
+          Tony Hawks Pro Skater (GC)<br>
+          <br>
+          <strong>July 2002</strong><br>
+          Terranigma (SNES)<br>
+          <br>
+          <strong>X-mas Game 2001 - </strong><br>
+          Wild Metal Country (DC)<br>
+          <br>
+          <strong>X-mas Game 2000 -</strong><br>
+          Skies of Arcadia (DC)<br>
+          Grandia 2 (DC)<br>
+          <br>
+          <strong>X-mas Game 1997 -<br>
+          </strong>None!<strong><br>
+          </strong></p>
+        <p><strong>X-mas Game 1996 -</strong><br>
+          Legacy of Kain (PS1)<br>
+          Suikoden (PS1)</p>
       </div>
-      <!-- END BODY-->
-      <!-- BEGIN BASE MENU -->
-      <div class="menu" align="left"><a href="nowplaying.htm" title="now playing" target="_top">now playing</a> </div>
-      <div class="footer" align="right">©2023 creath carter </div>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
     </div>
+    <!-- END BODY-->
+    <!-- BEGIN BASE MENU -->
+    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing" target="_top">now playing</a> </div>
+    <div class="footer" align="right">©2023 creath carter </div>
     <!-- END BASE MENU -->
+    
   </body>
 </html>
