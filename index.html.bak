@@ -10,8 +10,10 @@
     <!-- BEGIN HEADER MENU-->
     <div class="container">
       <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
-      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
-          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
+
           href="about.htm" target="_top">about</a></div>
     </div>
     <!-- END HEADER MENU-->
@@ -27,11 +29,13 @@
           <tr>
             <td style="height: 80px;">My name is Creath Carter and I'm a Technical Artist and Designer for Interactive Media.<br>
               <br>
-              This is my personal website of work from my time in the Games industry and related fields.<br>
-              I am also Creative Director for <a href="https://www.studioartician.com"
+              This is my personal website archiving my work from the Games industry and related fields.<br>
+              <br>
+              I am also Creative Director for <a href="https://www.studioartician.com"
+
                 target="_blank">studioArtician</a>, and current professional work can be seen there.<br>
               <br>
-              I am employed but am available for cool projects.</td>
+              I'm employed but am available for cool projects.</td>
           </tr>
           <tr>
             <td><br>
@@ -44,156 +48,137 @@
       <div class="space"> </div>
       <br>
       <table class="table">
-        <tbody>
+        <tbody style="height: 14941px;">
           <tr>
-            <td>Omegarena - Unfinished | Ongoing<br>
-              <br>
+            <td><br>
             </td>
           </tr>
           <tr>
-            <td>TMG Proj - Unfinished | Suspended<br>
-              <br>
+            <td><img src="proj_omegarena/omegarena_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_imvu/wr2_01.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_paperTomb/pT_screens_1-3.10.24.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_massasteria/massasteria_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_honeyDrop/honeydrop_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_wingmen/wingmen_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_guillotime/guillotime_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_duality/duality_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_mercenaryMechanics/mercenary_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_permanence/permanence_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_mirrorzvr/mirrozVR_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_goatcrashers/screena.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_ravenbox/rb_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td> <img src="proj_jade2/jade_ab_logo.png" alt=""></td>
+          </tr>
+          <tr>
+            <td> <img src="proj_jade2/jade_ab_logo.png" alt=""></td>
+          </tr>
+          <tr>
+            <td><img src="proj_jade1/und_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_zeebizoo/zeebiZoo_logoLg.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td> <img src="proj_swordsurfer/ss_logo.png" alt=""></td>
+          </tr>
+          <tr>
+            <td><img src="proj_chessed/chessed_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td> <img src="proj_monstersanto/ms_logo.png" alt=""></td>
+          </tr>
+          <tr>
+            <td><img src="proj_snow/snow_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_lotro/cc_lotro_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_heist/screencapa.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_domwar3/mora_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_pumpkin_caps/pump02.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_trike/trikeA.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_imperator/imp_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td> <img src="proj_wow_test/fungShrine_logo.png" alt=""></td>
+          </tr>
+          <tr>
+            <td><img src="proj_hohenheim/h-shot01_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_wtf_adventure/wtfa_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_sticks/sticks_logo.jpg" alt=""> </td>
+          </tr>
+          <tr>
+            <td><img src="proj_godfather/gf_logo.png" alt=""> </td>
+          </tr>
+          <tr>
+            <td><br>
             </td>
           </tr>
           <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
+            <td><img src="proj_vegas/vegas_logo.png" alt=""></td>
           </tr>
           <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
+            <td> <img src="proj_planeshift/planeshift_logo.png" alt=""></td>
           </tr>
           <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
+            <td> <img src="proj_ioftheenemy/ioe_logo.png" alt=""></td>
           </tr>
           <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
+            <td><img src="proj_rolling_assault/ra_logo.png" alt=""></td>
           </tr>
           <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
+            <td><img src="proj_sprinky/spinky_logo.png" alt=""> </td>
           </tr>
           <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
+            <td> <img src="proj_muridae/mm_logo.png" alt=""> </td>
           </tr>
           <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
+            <td><img src="proj_mesarthim/mes_logo.jpg" alt=""> </td>
           </tr>
           <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
+            <td><img src="proj_wla/wla_logo.png" alt=""></td>
           </tr>
           <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>IMVU/WithMe<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>TMG Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
-          </tr>
-          <tr>
-            <td>GameJam Proj<br>
-              <br>
-            </td>
+            <td><img src="proj_outpost/outpost_logo.jpg" alt=""> </td>
           </tr>
         </tbody>
       </table>
@@ -203,7 +188,8 @@
     </div>
     <!-- END BODY-->
     <!-- BEGIN BASE MENU -->
-    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
+
         target="_top">now playing</a> </div>
     <div class="footer" align="right">©2023 creath carter </div>
     <!-- END BASE MENU -->
