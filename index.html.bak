@@ -10,10 +10,8 @@
     <!-- BEGIN HEADER MENU-->
     <div class="container">
       <div class="header"> <a href="https://www.creathcarter.com">creath carter</a> </div>
-      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
-
-          href="resume.htm" title="Resume" target="_top">resume</a> | <a
-
+      <div class="menu"> <a href="https://www.creathcarter.com" target="_top">home</a> | <a
+          href="resume.htm" title="Resume" target="_top">resume</a> | <a
           href="about.htm" target="_top">about</a></div>
     </div>
     <!-- END HEADER MENU-->
@@ -31,8 +29,7 @@
               <br>
               This is my personal website archiving my work from the Games industry and related fields.<br>
               <br>
-              I am also Creative Director for <a href="https://www.studioartician.com"
-
+              I am also Creative Director for <a href="https://www.studioartician.com"
                 target="_blank">studioArtician</a>, and current professional work can be seen there.<br>
               <br>
               I'm employed but am available for cool projects.</td>
@@ -54,131 +51,171 @@
             </td>
           </tr>
           <tr>
-            <td><img src="proj_omegarena/omegarena_logo.png" alt=""> </td>
+            <td><a href="./proj_omegarena.html" target="_top"><img src="proj_omegarena/omegarena_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_imvu/wr2_01.png" alt=""> </td>
+            <td><a href="./proj_imvu.html"><img src="proj_imvu/wr2_01.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_paperTomb/pT_screens_1-3.10.24.png" alt=""> </td>
+            <td><a href="./proj_paper_tomb.html"><img src="proj_paperTomb/pT_screens_1-3.10.24.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_massasteria/massasteria_logo.png" alt=""> </td>
+            <td><a href="./proj_massasteria.html"><img src="proj_massasteria/massasteria_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_honeyDrop/honeydrop_logo.png" alt=""> </td>
+            <td><a href="./proj_honeydrop.html"><img src="proj_honeyDrop/honeydrop_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_wingmen/wingmen_logo.png" alt=""> </td>
+            <td><a href="./proj_wingmen.html"><img src="proj_wingmen/wingmen_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_guillotime/guillotime_logo.png" alt=""> </td>
+            <td><a href="./proj_guillotime.html"><img src="proj_guillotime/guillotime_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_duality/duality_logo.png" alt=""> </td>
+            <td><a href="./proj_duality.html"><img src="proj_duality/duality_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_mercenaryMechanics/mercenary_logo.png" alt=""> </td>
+            <td><a href="./proj_mercenary.html"><img src="proj_mercenary/mercenary_logo.png"></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_permanence/permanence_logo.png" alt=""> </td>
+            <td><a href="./proj_permanence.html"><img src="proj_permanence/permanence_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_mirrorzvr/mirrozVR_logo.jpg" alt=""> </td>
+            <td><a href="./proj_mirrorzvr.html"><img src="proj_mirrorzvr/mirrozVR_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_goatcrashers/screena.png" alt=""> </td>
+            <td><a href="./proj_goatcrashers.html"><img src="proj_goatcrashers/screena.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_ravenbox/rb_logo.jpg" alt=""> </td>
+            <td><a href="./proj_ravenbox.html"><img src="proj_ravenbox/rb_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td> <img src="proj_jade2/jade_ab_logo.png" alt=""></td>
+            <td> <a href="./proj_kmi.html"><img src="proj_kmi/bg_urbanB.jpg"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td> <img src="proj_jade2/jade_ab_logo.png" alt=""></td>
+            <td> <a href="./proj_jade2.html"><img src="proj_jade2/jade_ab_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_jade1/und_logo.png" alt=""> </td>
+            <td><a href="./proj_jade1.html"><img src="proj_jade1/und_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_zeebizoo/zeebiZoo_logoLg.png" alt=""> </td>
+            <td><a href="./proj_zeebizoo.html"><img src="proj_zeebizoo/zeebiZoo_logoLg.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td> <img src="proj_swordsurfer/ss_logo.png" alt=""></td>
+            <td> <a href="./proj_swordsurfer.html"><img src="proj_swordsurfer/ss_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_chessed/chessed_logo.jpg" alt=""> </td>
+            <td><a href="./proj_chessed.htm"><img src="proj_chessed/chessed_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td> <img src="proj_monstersanto/ms_logo.png" alt=""></td>
+            <td> <a href="./proj_monstersanto.html"><img src="proj_monstersanto/ms_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_snow/snow_logo.png" alt=""> </td>
+            <td><a href="./proj_snow.html"><img src="proj_snow/snow_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_lotro/cc_lotro_logo.jpg" alt=""> </td>
+            <td><a href="./proj_lotro.html"><img src="proj_lotro/cc_lotro_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_heist/screencapa.jpg" alt=""> </td>
+            <td><a href="./proj_heist.html"><img src="proj_heist/screencapa.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_domwar3/mora_logo.png" alt=""> </td>
+            <td><a href="./proj_domwar3.htm"><img src="proj_domwar3/mora_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_pumpkin_caps/pump02.jpg" alt=""> </td>
+            <td><a href="./proj_pumpkin_caps.html"><img src="proj_pumpkin_caps/pump02.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_trike/trikeA.png" alt=""> </td>
+            <td><a href="./proj_trike.html"><img src="proj_trike/trikeA.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_imperator/imp_logo.png" alt=""> </td>
+            <td><a href="./proj_imperator.html"><img src="proj_imperator/imp_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td> <img src="proj_wow_test/fungShrine_logo.png" alt=""></td>
+            <td> <a href="./proj_wow_test.html"><img src="proj_wow_test/fungShrine_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_hohenheim/h-shot01_logo.jpg" alt=""> </td>
+            <td><a href="./proj_hohenheim.html"><img src="proj_hohenheim/h-shot01_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_wtf_adventure/wtfa_logo.jpg" alt=""> </td>
+            <td><a href="./proj_wtf_adventure.html"><img src="proj_wtf_adventure/wtfa_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_sticks/sticks_logo.jpg" alt=""> </td>
+            <td><a href="./proj_sticks.html"><img src="proj_sticks/sticks_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_godfather/gf_logo.png" alt=""> </td>
+            <td><a href="./proj_godfather.htm"><img src="proj_godfather/gf_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
             <td><br>
             </td>
           </tr>
           <tr>
-            <td><img src="proj_vegas/vegas_logo.png" alt=""></td>
+            <td><a href="./proj_vegas.html"><img src="proj_vegas/vegas_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td> <img src="proj_planeshift/planeshift_logo.png" alt=""></td>
+            <td> <a href="./proj_planeshift.html"><img src="proj_planeshift/planeshift_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td> <img src="proj_ioftheenemy/ioe_logo.png" alt=""></td>
+            <td> <a href="./proj_ioftheenemy.html"><img src="proj_ioftheenemy/ioe_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_rolling_assault/ra_logo.png" alt=""></td>
+            <td><a href="./proj_rolling_assualt.html"><img src="proj_rolling_assault/ra_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_sprinky/spinky_logo.png" alt=""> </td>
+            <td><a href="./proj_sprinky.html"><img src="proj_sprinky/spinky_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td> <img src="proj_muridae/mm_logo.png" alt=""> </td>
+            <td> <a href="./proj_muridae.html"><img src="proj_muridae/mm_logo.png"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_mesarthim/mes_logo.jpg" alt=""> </td>
+            <td><a href="./proj_mesarthim.html"><img src="proj_mesarthim/mes_logo.jpg"
+                  alt=""></a> </td>
           </tr>
           <tr>
-            <td><img src="proj_wla/wla_logo.png" alt=""></td>
+            <td><a href="./proj_wla.html"><img src="proj_wla/wla_logo.png"
+                  alt=""></a></td>
           </tr>
           <tr>
-            <td><img src="proj_outpost/outpost_logo.jpg" alt=""> </td>
+            <td><a href="./proj_outpost.html"><img src="proj_outpost/outpost_logo.jpg"
+                  alt=""></a> </td>
           </tr>
         </tbody>
       </table>
@@ -188,8 +225,7 @@
     </div>
     <!-- END BODY-->
     <!-- BEGIN BASE MENU -->
-    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
-
+    <div class="menu" align="left"><a href="nowplaying.htm" title="now playing"
         target="_top">now playing</a> </div>
     <div class="footer" align="right">©2023 creath carter </div>
     <!-- END BASE MENU -->
